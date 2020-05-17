@@ -1,0 +1,500 @@
+"source";"user_id";"created_at";"screen_name";"text";"retweet_count";"reply_to_user_id";"is_retweet";"favorite_count"
+"Twitter for iPhone";"403544693";2020-05-17 08:43:49;"nzingaretti";"Ora è tempo di costruire insieme un mondo migliore.
+Senza odio. 
+Senza violenza.
+Senza #omofobia
+#17Maggio https://t.co/EamPWKu4aU";22;NA;FALSE;183
+"Twitter for iPhone";"403544693";2020-05-16 17:37:22;"nzingaretti";"Le misure di contenimento hanno funzionato, ora con le riaperture un altro passo in avanti: bisogna unire vita, prudenza e responsabilità. Solo questo aumenta la sicurezza e ci permetterà di guardare al futuro con speranza";72;NA;FALSE;537
+"Twitter for iPhone";"403544693";2020-05-16 12:37:18;"nzingaretti";"Siamo vicini ai giornalisti dell’@Agenzia_Ansa. Un grande abbraccio a tutti voi";33;NA;FALSE;295
+"Twitter for iPhone";"403544693";2020-05-15 08:36:29;"nzingaretti";"Ci lascia #EzioBosso. Un artista che ci ha fatto emozionare e riflettere. La sua musica e il suo sorriso ci accompagneranno per sempre https://t.co/nB7NB9b1oS";51;NA;FALSE;783
+"Twitter for iPhone";"403544693";2020-05-14 18:52:20;"nzingaretti";"Emergenza non è finita, dal 18 maggio non abbassare la guardia
+
+https://t.co/9xGgulX09M";23;NA;FALSE;114
+"Twitter for Android";"403544693";2020-05-14 16:01:51;"nzingaretti";"Le persone vogliono soluzioni, non polemiche. Questa la linea che il @pdnetwork ha tenuto nel sostegno al Governo: affrontare e risolvere i problemi e far prevalere il bene comune per un'Italia più giusta, semplice, verde e competitiva: https://t.co/unChalwAwH
+#decretorilancio https://t.co/wuhPPPBNQV";42;NA;FALSE;249
+"Twitter for iPhone";"403544693";2020-05-12 13:39:52;"nzingaretti";"Prossima settimana test di sieroprevalenza anche per #farmacisti che sono in prima linea nel contrasto al coronavirus con grande impegno 
+
+@RegioneLazio 
+@SaluteLazio";18;NA;FALSE;136
+"Twitter for iPhone";"403544693";2020-05-12 10:15:49;"nzingaretti";"Giornata Mondiale dell'Infermiere. 
+Una sola parola: GRAZIE! #infermieri https://t.co/xc94WmZ3JQ";55;NA;FALSE;329
+"Twitter for iPhone";"403544693";2020-05-11 19:04:01;"nzingaretti";"Una bella notizia: 16.000 insegnanti in più saranno stabilizzati come proponeva il @pdnetwork. Insieme alle altre assunzioni, ci saranno 32.000 nuovi insegnanti nelle scuole italiane. Il più grande investimento sulla formazione e sull'educazione dei nostri ragazzi";161;NA;FALSE;1096
+"Twitter for iPhone";"403544693";2020-05-11 12:29:16;"nzingaretti";"Oggi partono ufficialmente i 300mila test sierologici nel Lazio. Coinvolti il personale della sanità, medici di medicina generale, pediatri e farmacisti, Forze dell’Ordine, ospiti e dipendenti delle RSA di tutto il Lazio. Avvio presso il Comando Generale della @GDF #coronavirus https://t.co/7iVn6zG8aT";52;NA;FALSE;306
+"Twitter for iPhone";"403544693";2020-05-10 14:18:02;"nzingaretti";"Bentornata a casa, Silvia! 
+Grazie alle istituzioni che hanno lavorato per riportarti in Italia
+
+#SilviaRomanoLibera https://t.co/CEJFvG4zxx";146;NA;FALSE;2160
+"Twitter for iPhone";"403544693";2020-05-10 08:20:20;"nzingaretti";"Buona festa a tutte le mamme. Auguri con un impegno: faremo di tutto perché nessuna donna mai, ancor più  in questa crisi, sia costretta a dover scegliere tra maternità e lavoro, tra maternità e piena realizzazione di sé 
+
+#festadellamamma #MothersDay";90;NA;FALSE;810
+"Twitter for iPhone";"403544693";2020-05-09 15:30:36;"nzingaretti";"Una bellissima notizia! #SilviaRomano è finalmente libera, grazie a chi ha lavorato per la sua liberazione. Una grande gioia per tutta l’Italia! https://t.co/QpW68UZAoR";382;NA;FALSE;4351
+"Twitter for Android";"403544693";2020-05-08 18:06:46;"nzingaretti";"Cultura, sport, turismo, donne, bambini, lavoratori fragili, lotta all’usura nel Lazio. Ecco le nuove misure di #RegioneVicina: 
+https://t.co/Ir86btgtYz";9;NA;FALSE;66
+"Twitter for iPhone";"403544693";2020-05-08 17:04:13;"nzingaretti";"Continua il negoziato in Europa. Oggi un altro passo avanti, sarà possibile utilizzare #MES senza condizionalità per sanità. Grande opportunità per l'Italia: 37mld  per ospedali, assunzioni, investimenti e cure. Costruiamo un grande piano con le Regioni per la rinascita italiana";121;NA;FALSE;757
+"Twitter for iPhone";"403544693";2020-05-08 14:40:46;"nzingaretti";"Oggi è la Giornata Mondiale della 
+@crocerossa e della #MezzalunaRossa, un'occasione per ringraziare le volontarie e i volontari che in giro per il mondo offrono aiuto, protezione e soccorso. Grazie oggi e sempre #GiornataMondialeCroceRossa";19;NA;FALSE;106
+"Twitter for iPhone";"403544693";2020-05-08 13:29:31;"nzingaretti";"Ho trovato molto importante la scelta del Governo e del Ministro @dariofrance di non far pagare l'occupazione di suolo pubblico. Per me bisogna aumentare la collaborazione con i sindaci e semplificare le procedure. Garantire forme di ristorazione all'aperto sarebbe un bel segnale";63;NA;FALSE;389
+"Twitter for iPhone";"403544693";2020-05-07 18:50:37;"nzingaretti";"Ho chiesto a @VCuppi, presidente del partito, di pensare e organizzare il gruppo di lavoro dedicato a #WomenNewDeal. Un luogo di elaborazione per disegnare la rinascita dell'Italia a partire da forza, esperienza e protagonismo delle donne. Dalla prossima settimana al lavoro";45;NA;FALSE;330
+"Twitter for iPhone";"403544693";2020-05-04 18:26:24;"nzingaretti";"Oggi in @RegioneLazio primo incontro con il settore balneare, domani i tavoli  con i commercianti e gli artigiani. Continuiamo a lavorare insieme per dare regole efficaci a ogni settore e per una ripresa economica e sociale in piena sicurezza #RipartireSicuri";25;NA;FALSE;161
+"Twitter for iPhone";"403544693";2020-05-04 17:59:44;"nzingaretti";"Più donne nella task force sulla rinascita economica e in tutti i luoghi dove si decide. Bene @GiuseppeConteIT ad aver raccolto l’appello di una grande mobilitazione. 
+
+La priorità è la lotta alle disuguaglianze economiche, sociali e di genere";118;NA;FALSE;903
+"Twitter for iPhone";"403544693";2020-05-04 15:13:37;"nzingaretti";"Auguri alle donne e agli uomini dell'@Esercito italiano che anche in queste settimane sono al servizio dell’Italia e dei nostri concittadini #EsercitoItaliano #4maggio";29;NA;FALSE;223
+"Twitter for iPhone";"403544693";2020-05-03 13:53:45;"nzingaretti";"Serve sicuramente una nuova politica industriale. Tra l’altro è oggetto del report che sto facendo per il Parlamento Europeo. Su questo siamo ovviamente pronti a collaborare. <U+2066>@nzingaretti<U+2069> <U+2066>@pdnetwork<U+2069> https://t.co/xqypGfqtgd";28;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-05-03 10:32:36;"nzingaretti";"È il momento di avviare una nuova politica industriale. Insieme a imprese, mondo del lavoro e accademico, esperti, il @pdnetwork vuole costruire un nuovo modello di sviluppo per un’Italia più semplice, più sostenibile, digitalizzata e più competitiva https://t.co/IcuQlc04g4";68;NA;FALSE;455
+"Twitter for iPhone";"403544693";2020-05-02 16:27:17;"nzingaretti";"Una notizia che dà speranza. Da giugno lo #Spallanzani inizia la sperimentazione sull’uomo del vaccino contro il #Covid. Dalla @RegioneLazio investiti 5 milioni di euro per questa ricerca che continueremo a sostenere";316;NA;FALSE;2112
+"Twitter for iPhone";"403544693";2020-05-01 15:59:22;"nzingaretti";"Trend contagi Lazio sotto l’1%. È la conferma che siamo sulla strada giusta. Un risultato di tutta la nostra comunità che ci dà fiducia. Ora ci vuole un’immensa responsabilità da parte di ciascuno per garantire distanziamento fisico e rispetto delle regole. Avanti in sicurezza";130;NA;FALSE;1093
+"Twitter for iPhone";"403544693";2020-05-01 06:11:28;"nzingaretti";"Buon #PrimoMaggio all'Italia che resiste. Oggi più che mai vicini alle persone con l'impegno a creare lavoro. Per l'Italia, per la rinascita, per costruire fiducia https://t.co/MrKN7rMEyv";165;NA;FALSE;1295
+"Twitter for Android";"403544693";2020-04-30 08:41:18;"nzingaretti";"In questo momento è importante che chi è in difficoltà riceva un aiuto concreto. Dalla @RegioneLazio 40 milioni di euro per disoccupati, rider, universitari, tirocinanti, colf e badanti. #NessunoEscluso 
+https://t.co/pkw6WW0qXZ https://t.co/SbqkUwbPVI";26;NA;FALSE;140
+"Twitter for Android";"403544693";2020-04-30 06:17:10;"nzingaretti";"Il #30aprile 1982 la mafia uccideva Pio La Torre, protagonista della nostra storia e della lotta contro la criminalità organizzata. Voglio ricordarlo con queste sue parole https://t.co/5KInisX0KR";223;NA;FALSE;1168
+"Twitter for iPhone";"403544693";2020-04-29 20:55:40;"nzingaretti";"Pubblicato l’avviso in favore dei nidi privati accreditati le cui attività sono state sospese a causa dell’emergenza Covid-19. Il bando stanzia 3 milioni di euro, in fase di elaborazione un ulteriore avviso che stanzia 8 milioni per i nidi privati autorizzati ma non accreditati https://t.co/xgBXcLXAwg";15;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-29 20:55:37;"nzingaretti";"1 milione per i teatri privati per il pagamento dei canoni di locazione per i mesi di marzo, aprile, maggio e giugno 2020. L’Avviso pubblico è online da oggi sul sito https://t.co/FLzay3ex7f e sosterrà il 40% del totale https://t.co/L2KhvTZVoV";12;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-29 19:20:51;"nzingaretti";"Bene l'orientamento del Ministro @F_Boccia di collegare le verifiche sulle riaperture anche ai livelli di contagio nelle diverse Regioni";61;NA;FALSE;499
+"Twitter for iPhone";"403544693";2020-04-29 12:37:27;"nzingaretti";"Da oggi parte #Immagina la piattaforma di idee rivolta  a tutte e tutti coloro che vogliono partecipare alla rinascita europea e dell'Italia https://t.co/y1hHNtMQHG";72;NA;FALSE;311
+"Twitter for iPhone";"403544693";2020-04-29 12:36:37;"nzingaretti";"Immagina. Perché per liberarci dalla morsa del coronavirus abbiamo bisogno anche di immaginazione e coraggio. Dobbiamo cambiare storia, con la forza delle idee. Questo il proposito ambizioso di questa nuova agorà digitale. @nzingaretti #Immagina https://t.co/Xk536CKtbA https://t.co/fgoRdeigA3";29;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-29 12:35:21;"nzingaretti";"#Coronavirus - sottoscritta un’intesa con @PosteNews per rendere operativa la possibilità di anticipazione sociale del trattamento di cassa integrazione in deroga tramite gli sportelli postali del Lazio: https://t.co/s181XFY5fT https://t.co/iVRpISissy";16;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-25 13:12:23;"nzingaretti";"25 aprile 2020 ore 15. Oggi  uniti da \"Bella ciao\". Per un grazie ai partigiani e alle forze Alleate che liberarono l'Italia dal nazifascimo";201;NA;FALSE;2143
+"Twitter for iPhone";"403544693";2020-04-25 10:13:20;"nzingaretti";"A Porta San Paolo a Roma come ogni anno. Per celebrare il 25 aprile, per ricordare chi ha lottato per la nostra libertà. Oggi più che mai. 
+
+Viva l’Italia! <U+0001F1EE><U+0001F1F9> https://t.co/MGdr7DrBIs";103;NA;FALSE;838
+"Twitter for iPhone";"403544693";2020-04-24 17:22:31;"nzingaretti";"Bene l’assessore @MAXVALERIANI sui 12 milioni di euro al Comune di Roma per pagare il #BonusAffitto. 
+Diamo una mano a Roma e ai comuni perché per sostenere le famiglie in questa crisi durissima bisogna essere uniti";17;NA;FALSE;165
+"Twitter for iPhone";"403544693";2020-04-23 19:07:52;"nzingaretti";"I governi Ue hanno compreso l'importanza della proposta del Governo #Conte per #RecoveryFund a sostegno di famiglie e imprese. Quello che chiedevamo. Ora sta alla nostra forza, al nostro impegno realizzare la rinascita e ricostruire la fiducia";191;NA;FALSE;1252
+"Twitter for iPhone";"403544693";2020-04-23 15:53:37;"nzingaretti";"Grazie a @LbarbarossaLuca e a tutti gli artisti che hanno collaborato al progetto per aiutare @INMISpallanzani e tutta la sanità del Lazio nella battaglia contro il #coronavirus. Lo ringrazio a nome mio e di chi è impegnato in prima linea come il personale sanitario @RegioneLazio";17;NA;FALSE;138
+"Twitter for iPhone";"403544693";2020-04-23 15:08:56;"nzingaretti";"Oggi ho ricevuto questa lettera a casa. Credo sia uno dei segnali del pericoloso clima di odio politico che questa fase sta generando. Il Sindaco è abituato a stare in prima linea a servizio del cittadino, non mi farò certo intimidire da codardi che minacciano. Vergognatevi! https://t.co/5nojLAY1Am";700;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-23 14:56:56;"nzingaretti";"Tutti i democratici con @matteoricci. Un grande abbraccio a un grande sindaco!";45;NA;FALSE;408
+"Twitter for iPhone";"403544693";2020-04-23 14:56:03;"nzingaretti";"Per sostenere lo @INMISpallanzani nella ricerca sul Covid 19 @LbarbarossaLuca lancia una raccolta fondi con un brano e un video inediti. Si può contribuire alla raccolta con un versamento sul cc dell’INMI L. Spallanzani, IBAN IT75A0200805140000400005240 
+
+https://t.co/tb7CQO4D9p";9;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-23 10:50:02;"nzingaretti";"Tutti con @CarloVerdelli! Oggi 23 aprile deve essere il giorno in cui l’Italia democratica scende virtualmente in piazza per Verdelli e con tutti i giornalisti minacciati #iostoconverdelli, partecipiamo in massa! https://t.co/H1cqQ6knLv";160;NA;FALSE;658
+"Twitter for iPhone";"403544693";2020-04-21 17:38:07;"nzingaretti";"Stasera sarò ospite di Giovanni Floris a @diMartedi su @La7tv. Se vi fa piacere seguitemi #DiMartedi https://t.co/7iPMQZt1jm";33;NA;FALSE;240
+"Twitter for iPhone";"403544693";2020-04-21 07:58:14;"nzingaretti";"Auguri Roma, 2773 anni di grandissima bellezza. Uniti ce la faremo #NataleDiRoma https://t.co/1XieZQxxzu";92;NA;FALSE;718
+"Twitter for iPhone";"403544693";2020-04-18 12:14:23;"nzingaretti";"Chi si nasconde dietro le minacce a @CarloVerdelli prova a inquinare la nostra democrazia. Ma non ce la farà. Siamo tutti con Verdelli e con i giornalisti minacciati perché fanno il loro lavoro. Chiediamo che si faccia piena luce sui responsabili";160;NA;FALSE;998
+"Twitter for iPhone";"403544693";2020-04-17 17:29:26;"nzingaretti";"Dal Governo 3,5 miliardi per i Comuni e le Province nel decreto aprile. Ottima notizia! Sostegno ai sindaci e ai territori vuol dire attenzione ai servizi per essere vicini alle persone. L’Italia unita è più forte";83;NA;FALSE;450
+"Twitter for iPhone";"403544693";2020-04-17 16:41:01;"nzingaretti";"A Rieti. Anche oggi vicino alle operatrici e agli operatori che in prima linea lottano contro il #coronavirus. Professionisti della sanità, donne e uomini della Protezione civile, volontari, Forze dell'Ordine e dell'Esercito. 
+
+Insieme ce la faremo https://t.co/ZAigKPi6bF";15;NA;FALSE;113
+"Twitter for iPhone";"403544693";2020-04-17 15:37:24;"nzingaretti";"Con il voto di oggi il Parlamento Europeo aiuta l'Italia, la sua economia, le imprese, il lavoro. La destra italiana no. Da ricordare #eurobond";678;NA;FALSE;4105
+"Twitter for iPhone";"403544693";2020-04-17 10:14:07;"nzingaretti";"17 aprile 1944.
+Rastrellamento del #Quadraro.
+Noi non dimentichiamo https://t.co/vph5HRAXqR";68;NA;FALSE;333
+"Twitter for iPhone";"403544693";2020-04-16 14:17:33;"nzingaretti";"Oggi al Policlinico Tor Vergata per essere vicini agli operatori della sanità in prima linea contro il coronavirus. 
+
+È grazie al vostro lavoro che nel Lazio non è esploso il contagio https://t.co/tQ875Cbmgs";23;NA;FALSE;205
+"Twitter for iPhone";"403544693";2020-04-16 14:17:09;"nzingaretti";"#Coronavirus - le foto del sopralluogo alla zona di alto biocontenimento dell'Istituto Nazionale per le Malattie Infettive Spallanzani INMI.
+
+L'allestimento è quasi completato, presto qui apriranno 20 posti letto di terapia intensiva. https://t.co/IdkMAomcX1";9;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-16 09:44:17;"nzingaretti";"Ci lascia #Sepulveda, stroncato dal #coronavirus. Una bruttissima notizia. Ci restano i suoi libri, le sue parole, le sue emozioni che non dimenticheremo. 
+
+“Solo sognando e restando fedeli ai sogni riusciremo ad essere migliori e, se noi saremo migliori, sarà migliore il mondo” https://t.co/DOvTyRN1dF";142;NA;FALSE;773
+"Twitter for iPhone";"403544693";2020-04-16 08:16:27;"nzingaretti";"L’uscita dal #lockdown deve avvenire in tempi e regole nazionali da individuare in fretta. Cos’altro deve accadere per capire che i nostri destini di italiani e di europei sono legati? E che ciò che accade a una Regione condiziona il Paese? Errare è umano, perseverare è diabolico";265;NA;FALSE;1741
+"Twitter for iPhone";"403544693";2020-04-15 16:16:41;"nzingaretti";"Grazie a tutto il personale regionale impegnato senza sosta per rendere le procedure più veloci. La nostra priorità è essere vicini alle persone e alle imprese e riaccendere l’economia in sicurezza";8;"403544693";FALSE;70
+"Twitter for iPhone";"403544693";2020-04-15 16:16:29;"nzingaretti";"La @RegioneLazio aderisce alla convenzione con l’ABI. Ora le banche possono anticipare i soldi della cassa integrazione ai lavoratori colpiti dalle conseguenze del #coronavirus. 
+Bisogna fare presto per dare una mano chi non ce la fa";33;NA;FALSE;176
+"Twitter for iPhone";"403544693";2020-04-15 12:07:17;"nzingaretti";"Al Magazzino Covid-Protezione Civile Lazio per ringraziare volontarie e volontari che garantiscono l’approvvigionamento di materiale nelle strutture sanitarie. In 1 mese consegnati 9 milioni e 662 mila dispositivi. Lavoro incredibile che ha permesso di contenere il #coronavirus https://t.co/urAhYULShJ";28;NA;FALSE;171
+"Twitter for iPhone";"403544693";2020-04-14 09:58:50;"nzingaretti";"Oggi altra visita in un ospedale del Lazio. A Viterbo per fare il punto con chi sta in trincea e ringraziare tutti gli operatori e le operatrici per il loro lavoro https://t.co/nrgL2JMDes";56;NA;FALSE;502
+"Twitter for iPhone";"403544693";2020-04-11 12:43:06;"nzingaretti";"Nella @RegioneLazio 1000 euro per gli operatori sanitari in prima linea contro il coronavirus.
+A tutti loro sempre GRAZIE https://t.co/KXXNc7wVbA";74;NA;FALSE;360
+"Twitter for iPhone";"403544693";2020-04-10 18:47:28;"nzingaretti";"Spingere avanti l'Europa, fare in fretta per attuare i provvedimenti economici e sociali in tempi certi. Sburocratizzare l'Italia, con Colao e la task force costruire il futuro. Fatti e obiettivi ambiziosi di Conte e del Governo che condividiamo. 
+
+Costruiamo un futuro migliore";88;NA;FALSE;563
+"Twitter for iPhone";"403544693";2020-04-10 16:56:24;"nzingaretti";"Il Governo ha preso decisioni importanti su imprese, lavoro, sostegno economico e sociale. Ora bisogna fare presto e concentrarci su velocità e attuazione decisioni. 
+
+Credo sia corretto che il Governo nelle prossime ore informi gli italiani e dia certezze alle famiglie sui tempi";72;NA;FALSE;485
+"Twitter for iPhone";"403544693";2020-04-09 15:23:08;"nzingaretti";"Fondi per Partite Iva, cassa integrazione, buoni spesa, credito alle imprese. Scelte importanti, come altre utili. Ma ora un appello: tutti concentrati per un obiettivo semplice e chiaro: FARE PRESTO.
+
+Non è una priorità, è LA priorità https://t.co/77sqHkCCJb";63;NA;FALSE;353
+"Twitter for iPhone";"403544693";2020-04-09 13:43:58;"nzingaretti";"Nessuno può farcela da solo ad affrontare una crisi mondiale mai conosciuta fino a oggi. L'Europa sta aiutando e dovrà fare ogni altro sforzo possibile. Ma in alcuni Paesi i partiti i della destra nazionalista e conservatrice sono contrari. Salviamo l'Europa per salvare l'Italia";189;NA;FALSE;1383
+"Twitter for iPhone";"403544693";2020-04-09 10:03:20;"nzingaretti";"Dalla @RegioneLazio 43 milioni di #bonusaffitto per aiutare famiglie e cittadini in difficoltà a causa dell’emergenza #coronavirus. Risorse ai Comuni, un sostegno concreto per essere vicini alle persone. Ora fare presto";41;NA;FALSE;211
+"Twitter for Android";"403544693";2020-04-08 16:11:41;"nzingaretti";"Hag Sameach di vero cuore alla comunità ebraica per la festa di #Pesach. In un periodo difficile come questo, il messaggio di libertà legato a questa ricorrenza, assume un significato ancora più profondo. Auguri!";20;NA;FALSE;143
+"Twitter for iPhone";"403544693";2020-04-08 15:52:09;"nzingaretti";"Da domani online il bando @RegioneLazio per i finanziamenti a imprese e partite Iva: contributo di 10mila euro e procedure semplici. 
+
+Grazie a maggioranza e opposizione in Consiglio, impegnati per essere vicini a tante aziende e lavoratori. Ora uniti per riaccendere i motori";28;NA;FALSE;163
+"Twitter for iPhone";"403544693";2020-04-08 10:26:42;"nzingaretti";"Il @pdnetwork aderisce all’appello lanciato da Carlo Petrini per celebrare sui social il 25 Aprile, la Festa della Liberazione dal nazifascismo. Una grande piazza digitale per unire l’Italia nel nome della democrazia, della libertà e di un futuro migliore per tutti
+#iorestolibero https://t.co/6pY3NOsU2O";222;NA;FALSE;1003
+"Twitter for iPhone";"403544693";2020-04-06 18:55:35;"nzingaretti";"Andiamo avanti. Dare sicurezza significa approvare presto il decreto di aprile e preparare il decreto sulle semplificazioni. Facciamolo, rimaniamo uniti come sistema Paese e l'Italia ce la farà";27;"403544693";FALSE;140
+"Twitter for iPhone";"403544693";2020-04-06 18:55:05;"nzingaretti";"Ora ci vuole il massimo della velocità dal sistema amministrativo e delle banche per l'accesso alla liquidità";26;"403544693";FALSE;157
+"Twitter for iPhone";"403544693";2020-04-06 18:54:42;"nzingaretti";"Il decreto per la liquidità alle imprese è un grande risultato italiano. Un sostegno fondamentale per le nostre aziende, per la difesa delle imprese italiane, della produzione  e del lavoro raggiunto con il contributo di tutti";134;NA;FALSE;792
+"Twitter for iPhone";"403544693";2020-04-06 17:36:18;"nzingaretti";"Impossibile dimenticare la tragedia del 6 aprile di 11 anni fa a L'Aquila e in Abruzzo. Impossibile dimenticare quei giorni drammatici. In questo momento difficile per il nostro Paese siamo vicini con il cuore a tutti gli aquilani https://t.co/TZItmZgAGb";57;NA;FALSE;460
+"Twitter for iPhone";"403544693";2020-04-04 18:36:10;"nzingaretti";"#covid_19italia, chiuso intervento #vigilidelfuoco #nbcr per la sanificazione di locali, impianti e macchinari dell’ospedale di #Alatri (FR). Operazione svolta con 4 operatori nella struttura e gli altri all’esterno per la decontaminazione https://t.co/ZKTASlLCgl";60;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:35;"nzingaretti";"#Scuola: risorse per la formazione a distanza Investiamo 3,5 milioni di euro per le misure di formazione a distanza da attivare. Informazioni su: https://t.co/xnJCoZoxRD #RegioneVicina #Coronavirus https://t.co/ZUBwZsPnR2";10;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:25;"nzingaretti";"Incentivi smart working per le piccole e medie imprese e le Partite Iva con un solo dipendente e per i piccoli comuni fino a 5mila abitanti #RegioneVicina #Coronavirus https://t.co/6FtH284WLj";11;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:22;"nzingaretti";"Voucher per taxi e ncc: 100 mila voucher da 10 euro per i medici, gli infermieri e gli operatori della sanità che devono recarsi al lavoro. Presto tutte le modalità di adesione #RegioneVicina #Coronavirus https://t.co/aifxsE1H3m";25;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:18;"nzingaretti";"Ricostruzione post sisma: 10 milioni di liquidità a imprese e lavoratori dei 195 cantieri #RegioneVicina #Coronavirus https://t.co/3FoBc4cs2l";8;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:12;"nzingaretti";"Cantieri e infrastrutture - massima accelerazione dei pagamenti dei lavori per contrastare la crisi di liquidità delle imprese causata dall’emergenza COVID-19 #RegioneVicina #Coronavirus https://t.co/dIZaZ2GReb";8;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:10;"nzingaretti";"<U+2714> Stop per tre mesi alle tasse regionali: bollo auto, IRESA (imposta regionale sulla emissioni sonore degli aeromobili civili ) e IRBA (imposta regionale sulla benzina per autotrazione) #RegioneVicina #Coronavirus https://t.co/U2eg8AiF95";13;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:07;"nzingaretti";"<U+2714> Stop ai mutui per 4mila aziende
+<U+2714> stop fino a 12 mesi ai rimborsi dei prestiti ottenuti dalle imprese grazie a bandi della Regione.
+<U+2714> Sospesi per 2 mesi gli adempimenti richiesti ai beneficiari dei bandi gestiti dalla Regione #RegioneVicina #Coronavirus https://t.co/okBkjid1sQ";14;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:04;"nzingaretti";"Cassa integrazione in deroga per i lavoratori. Dalle risorse nazionali 144,5 milioni già in erogazione su un totale di 380 milioni #RegioneVicina #Coronavirus https://t.co/c7rtFLoQ8c";10;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:01;"nzingaretti";"Pronto cassa: 500 milioni di prestiti e garanzie per le imprese. Presto online i bandi #RegioneVicina #Coronavirus https://t.co/eduiwhsmNV";9;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:30:00;"nzingaretti";"Contributo affitto: 
+<U+2714>23 MLN per commercianti e artigiani che hanno dovuto sospendere le attività
+#RegioneVicina #Coronavirus https://t.co/WXCtqkKEQK";16;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:29:56;"nzingaretti";"Contributo affitto: 
+<U+2714> 22 MLN per chi ha subito una riduzione del 50 % del reddito familiare 
+<U+2714> 21 MLN per velocizzare l’erogazione di contributi già messi a bando
+#RegioneVicina #Coronavirus https://t.co/FICj1xaN3r";9;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 18:29:54;"nzingaretti";"Buono spesa: 21 milioni ai Comuni per dare un sostegno delle famiglie in difficoltà economica per fare la spesa e acquistare medicinali #RegioneVicina #Coronavirus https://t.co/d4E3Js3Oow";7;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 15:22:02;"nzingaretti";"In questi tre mesi con il Bilancio della @RegioneLazio abbiamo pagato 2,9MLD, 2,2MLD per sistema sanitario, Asl e ospedali, 700mln per enti locali, regionali, fornitori. Un'iniezione di liquidità per i territori per affrontare l'emergenza #coronavirus.";11;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 14:52:42;"nzingaretti";"Oggi in Giunta abbiamo approvato la sospensione per tre mesi, fino al 31 maggio, del bollo auto, dell'IRESA e dell'IRBA. E' un momento doloroso e difficile e la @RegioneLazio ha messo in campo misure anche fiscali per  famiglie e imprese. #coronavirus https://t.co/kLMFrz8D3V";16;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-03 10:08:49;"nzingaretti";"Grazie alla @poliziadistato in prima linea con i suoi mezzi per la sanificazione e la pulizia di Roma #coronavirus https://t.co/TMsZvzE8xd";28;NA;FALSE;170
+"Twitter for iPhone";"403544693";2020-04-01 16:30:15;"nzingaretti";"#Sure, la cassa integrazione europea, oggi è realtà. Una battaglia che parte da lontano, grazie a @PCPadoan che per anni ha costruito in Europa una misura che aiuterà i lavoratori e la ripresa economica
+ 
+#coronavirus";67;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-01 14:54:12;"nzingaretti";"Abbiamo sempre detto che questa è una crisi molto seria dell'economia. L'Europa deve essere unita, nessuno può farcela da solo. Oggi c'è la bella notizia della creazione del fondo <U+0001F1EA><U+0001F1FA> #Sure da 100 miliardi per dare sicurezza al mondo del lavoro. Ne ho parlato alla @vitaindiretta https://t.co/HrDdMJxloz";49;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-04-01 14:09:29;"nzingaretti";"Dalla Commissione una decisione storica. Parte il #Sure, cassa integrazione europea per i lavoratori colpiti da crisi #coronavirus con risorse comuni degli Stati membri. 
+
+È l'Europa che vogliamo, della solidarietà e del lavoro. Massimo sostegno a Governo per politiche comuni";397;NA;FALSE;2290
+"Twitter for iPhone";"403544693";2020-03-31 10:05:33;"nzingaretti";"In silenzio e raccoglimento. 
+Un pensiero ai defunti. 
+Vicino alle tante famiglie https://t.co/yQFvrKoXHr";68;NA;FALSE;727
+"Twitter for iPhone";"403544693";2020-03-30 17:06:55;"nzingaretti";"A #Orban diciamo che bisogna combattere il #coronavirus, non la democrazia. 
+
+Ecco la differenza tra noi e i nazional-populisti. Loro appena possono hanno questo vizio: ridurre le libertà delle persone";586;NA;FALSE;4560
+"Twitter for iPhone";"403544693";2020-03-30 16:31:13;"nzingaretti";"Sono risultato negativo a 2 tamponi consecutivi. Sono guarito e torno al lavoro. Grazie a tutti gli operatori della sanità, alle donne e agli uomini che con il proprio impegno stanno combattendo per l'Italia";882;NA;FALSE;15503
+"Twitter for iPhone";"403544693";2020-03-28 19:13:27;"nzingaretti";"Un Governo vicino alle persone che hanno più bisogno. Un Governo che aiuta i nostri sindaci. Abbiamo lavorato insieme per questo e dal @pdnetwork ora tutto l'appoggio per queste misure. La strada è quella giusta";174;NA;FALSE;1491
+"Twitter for iPhone";"403544693";2020-03-28 18:31:21;"nzingaretti";"Martedì in Giunta @RegioneLazio 20 milioni di euro ai Comuni del Lazio per buoni spesa alle famiglie che hanno bisogno";119;NA;FALSE;573
+"Twitter for iPhone";"403544693";2020-03-27 18:44:00;"nzingaretti";"Grazie Presidente. Un Paese unito insieme al suo Capo dello Stato. Un Paese solidale, forte, orgoglioso. Fortemente europeo, ma di un'Europa della solidarietà e non degli egoismi. Ce la faremo https://t.co/9HfDslIZjn";274;NA;FALSE;2683
+"Twitter for iPhone";"403544693";2020-03-27 18:01:57;"nzingaretti";"Da Papa Francesco ancora una volta gesti e parole importanti per tutti, semi di speranza per il domani https://t.co/ORjKmuzzlw";102;NA;FALSE;800
+"Twitter for iPhone";"403544693";2020-03-26 16:58:20;"nzingaretti";"Ha ragione il ministro Gualtieri, Governo vada avanti con determinazione su politiche  espansive e di investimento per immettere liquidità nel mercato. 
+Come ha detto Draghi “agire subito senza preoccuparsi del debito pubblico per proteggere cittadini ed economia”. È la priorità";258;NA;FALSE;1884
+"Twitter for iPhone";"403544693";2020-03-25 13:11:54;"nzingaretti";"#Coronavirus Cassa Integrazione per le imprese anche con meno di 5 dipendenti. 
+
+Info e domande qui:
+<U+25B6> https://t.co/OlGYQjFs93
+<U+0001F4E9>areavertenze@regione.lazio.legalmail.it";24;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-25 12:33:41;"nzingaretti";"Cassa integrazione: accordo @RegioneLazio-parti sociali per dare una risposta veloce ai lavoratori e alle imprese che stanno vivendo le drammatiche conseguenze del #coronavirus. Grazie a tutte le organizzazioni sindacali e datoriali per questo risultato https://t.co/XekqEqSHoY";41;NA;FALSE;178
+"Twitter for iPhone";"403544693";2020-03-24 15:38:37;"nzingaretti";"La stragrande maggioranza delle persone sta rispettando le regole, ma ieri 10.000 sanzioni. Grazie alle Forze dell'Ordine che svolgono un lavoro prezioso di presidio e controllo del territorio per la sicurezza di tutti. Un’altra grande forza dell'Italia!";107;NA;FALSE;1153
+"Twitter for iPhone";"403544693";2020-03-22 15:40:21;"nzingaretti";"Siamo di fronte alla più grave crisi dopo la Seconda Guerra Mondiale. Il Governo ha adottato i provvedimenti che andavano presi. Ora combattiamo uniti. È in queste circostanze che bisogna anteporre a tutto gli interessi e l'amore per gli altri e per l'Italia
+ #COVID<U+30FC>19";309;NA;FALSE;2772
+"Twitter for iPhone";"403544693";2020-03-20 19:31:44;"nzingaretti";"In questo momento difficile siamo con tutti i cittadini, con la comunità di Fondi #coronavirus #iorestoacasa https://t.co/LHHQ9xjql4";46;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-20 11:43:13;"nzingaretti";"#Coronavirus: La App LAZIODRCOVID è disponibile da oggi anche per gli utenti Apple oltre che per utenti Android.
+Hanno già scaricato la app 9920 cittadini e 829 medici di medicina generale hanno avuto almeno un accesso alla piattaforma. Scaricala qui: https://t.co/ksoo2QV2uA";35;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-19 20:53:11;"nzingaretti";"\"L'Italia si è distinta positivamente per misure adottate e rapida risposta alla terribile pandemia\", è la replica di Sergej Stanišev, presidente del @PES_PSE, alla lettera di @nzingaretti ai leader progressisti europei. 
+
+Lo rende noto @emanuelefiano: https://t.co/iIgG67WNxn";27;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-19 15:37:45;"nzingaretti";"Un immenso grazie alle operatrici e agli operatori del 118 che in queste ore stanno dando il massimo e continueranno a farlo anche nei prossimi giorni, per tutti noi e con sforzi enormi. Stiamo dalla loro parte, aiutiamo e aiutiamoci rispettando le regole #iorestoacasa https://t.co/lGyD9juEnm";30;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-19 15:37:40;"nzingaretti";"In questi giorni difficili c'è chi sta dedicando il suo lavoro agli altri, con generosità e senza sosta.
+A tutti gli italiani che stanno rendendo possibile fermare questa emergenza, vogliamo dire grazie! https://t.co/lu94dPDrUG";26;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-19 14:06:11;"nzingaretti";"Si sta facendo tanto ma purtroppo siamo ancora nel pieno della crisi. Non bisogna distrarsi in alcun modo. Chiedo di nuovo a tutte e a tutti di rispettare le regole e restare a casa. Non uscite! #COVID2019italia";194;NA;FALSE;1356
+"Twitter for iPhone";"403544693";2020-03-19 09:08:33;"nzingaretti";"Con lo scudo da 750 miliardi di euro della Bce l'Europa difende le imprese e le famiglie. C'è tanta Italia in questa vittoria. Ora guardiamo con più speranza al futuro. Vinciamo la guerra al coronavirus e poi ripartiremo. Con un'Europa finalmente più unita e solidale";453;NA;FALSE;3173
+"Twitter for iPhone";"403544693";2020-03-18 12:06:07;"nzingaretti";"Un grande abbraccio a @CarloVerdelli e a tutta la redazione di @repubblica. Mai come in questo momento è chiaro quanto  l'informazione sia il pilastro della democrazia. Un patrimonio che difendiamo e difenderemo";126;NA;FALSE;1118
+"Twitter for iPhone";"403544693";2020-03-17 17:27:18;"nzingaretti";"Grazie di cuore a tutti i donatori che hanno risposto con entusiasmo al nostro appello. Vi preghiamo di contattare il Servizio Trasfusionale, o l'associazione donatori di riferimento, per prenotare ora e giorno della donazione: https://t.co/l2FCFQKF1Q https://t.co/BBseFjI6zO";21;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-17 12:37:40;"nzingaretti";"Nella rete emergenza #coronavirus oggi attivo il Covid5 Hospital all’Eastman Policlinico Umberto I. Attivati nuovi posti letto alll’ospedale militare del Celio, grazie ad @Esercito per supporto. Avanti senza sosta per rafforzare @SaluteLazio e dare assistenza a chi ne ha bisogno";99;NA;FALSE;501
+"Twitter for iPhone";"403544693";2020-03-17 11:37:43;"nzingaretti";"Attenzione! Faccio un appello a tutti i cittadini. Non abbassiamo la guardia. Rimaniamo a casa. 
+
+Siamo in piena emergenza e bisogna ancora tenere duro. Rispettiamo le regole, prima di tutto rimaniamo in casa. Ce la faremo, ma non è finita
+#COVID2019 #coronavirusitalIa";403;NA;FALSE;2634
+"Twitter for iPhone";"403544693";2020-03-17 10:41:14;"nzingaretti";"Dopo Spallanzani e Columbus Gemelli domani operativo anche il Covid3 a Casalpalocco. Non ci fermiamo. Nel Lazio stiamo costruendo la rete per garantire il massimo dell'assistenza. Grazie a tutti gli operatori della sanità per questo sforzo straordinario 
+#COVID2019 #coronavirus https://t.co/e8qxGRxtVK";102;NA;FALSE;604
+"Twitter for iPhone";"403544693";2020-03-17 09:10:56;"nzingaretti";"#17marzo. Unità d'Italia. Siamo un grande Paese che, unito e combattendo insieme, ce la farà! https://t.co/OzDNIRvdtL";114;NA;FALSE;718
+"Twitter for iPhone";"403544693";2020-03-16 19:13:01;"nzingaretti";"Dopo Spallanzani e Colombus Gemelli subito al via altre due strutture: all’Istituto Casalpalocco e al Policlinico di Tor Vergata. In pochi giorni stiamo costruendo senza sosta il sistema straordinario della sanità del Lazio per fronteggiare il #coronavirus";301;NA;FALSE;2306
+"Twitter for iPhone";"403544693";2020-03-16 11:56:00;"nzingaretti";"<U+0001F534>In queste ore circola una fake news sulla possibilità di riaprire il Forlanini. Bisogna fare chiarezza, perché è una campagna di speculazione sulla pelle delle persone e dei malati, soprattutto in questa fase di emergenza #coronavirus: https://t.co/nttOSm5wYN";81;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-16 09:23:22;"nzingaretti";"Attivo oggi il Covid2 Hospital al Columbus Gemelli, una risposta eccezionale in pochi giorni. Grazie a tutti gli operatori che sono in prima linea. Un altro passo concreto nella costruzione della rete contro il #coronavirus. Ora avanti con l’apertura del Covid3 e Covid4 Hospital https://t.co/Si1ZmC9Ri4";285;NA;FALSE;1806
+"Twitter for iPhone";"403544693";2020-03-15 18:03:04;"nzingaretti";"<U+0001F5E3> Anche Marco #Parolo ha un messaggio: andate a donare il sangue
+<U+0001F64F> Grazie di cuore per il sostegno
+<U+0001FA78> Dona anche tu, è consentito e sicuro
+
+<U+2139> Qui tutte le info: https://t.co/l2FCFQKF1Q
+S.S. Lazio https://t.co/P9LXXW8OQR";14;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-15 11:36:33;"nzingaretti";"Anche @ClaudioBaglioni sostiene la nostra campagna per la donazione del sangue. Grazie di cuore! A lui e a tutte le persone che stanno dando una prova di grande generosità.
+Dona anche tu, ce n'è bisogno. Info qui: https://t.co/W9mmtaAqnn @SaluteLazio https://t.co/YotalpxAAK";39;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-14 15:22:24;"nzingaretti";"Applausi e un immenso grazie a tutti voi, operatori della sanità italiana. <U+0001F44F>
+
+Seguiamo le regole e uniti passeremo anche questa. 
+Andrà tutto bene, sicuro! https://t.co/WLc6iXpyPN";164;NA;FALSE;1495
+"Twitter for iPhone";"403544693";2020-03-14 11:41:38;"nzingaretti";"Mi stanno arrivando molte foto dalle file di chi dona il sangue. Un grazie di cuore agli italiani. 
+
+Stiamo dimostrando, ancora una volta, di essere un gran popolo! Continuiamo così perché ce n'è bisogno";209;NA;FALSE;2215
+"Twitter for iPhone";"403544693";2020-03-13 11:06:32;"nzingaretti";"Grazie alle ragazze e ai ragazzi del Cinema America. Facciamo tutti qualcosa per dare una mano. Ora  donate il sangue, è molto importante. Si può fare in piena sicurezza https://t.co/Y2ljsN3DZ1";56;NA;FALSE;298
+"Twitter for iPhone";"403544693";2020-03-12 17:41:56;"nzingaretti";"Ciao, io per ora non posso farlo. Ma invito tutti a donare il sangue, ce n’è bisogno per le sale operatorie. 
+
+Si può fare in piena sicurezza e il sangue verrà ovviamente analizzato prima dell'utilizzo. Tutte e tutti coloro che possono vadano a donare: è questo il momento";382;NA;FALSE;1986
+"Twitter for iPhone";"403544693";2020-03-12 17:41:30;"nzingaretti";"Un appello ai cittadini: \"L'emergenza COVID-19 sta mettendo in ginocchio i servizi trasfusionali. Andare a donare è necessario perché c'è il rischio concreto di bloccare l'attività chirurgica. Donare il sangue è sicuro\"- così l'assessore D'Amato. Info qui: https://t.co/W9mmtaAqnn https://t.co/vVa1XwT5hV";253;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-12 09:07:32;"nzingaretti";"Tutti coloro che vogliono dare una mano possono contribuire con una donazione.
+Condividete!
+Tutte le info qui: https://t.co/lET2TUamGG https://t.co/Ky5JXH18Wr";91;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-12 09:07:16;"nzingaretti";"Il progetto #Exscalate4cov vince 3 milioni di euro per la ricerca di nuovi farmaci contro la pandemia di #coronavirus. Anche l’INMI Spallanzani tra i partner del progetto. 
+
+Tutte le info su <U+25B6><U+FE0F> https://t.co/62ZhwACTD8
+@RegioneLazio @INMISpallanzani";21;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-11 21:30:47;"nzingaretti";"Un altro passo per sconfiggere il #coronavirus. Ora l'Italia unita deve combattere. Ognuno nel suo ruolo, funzione e lavoro. Ognuno facendo la sua parte. Rispettando le regole e  collaborando ce la faremo";171;NA;FALSE;1468
+"Twitter for iPhone";"403544693";2020-03-11 15:58:10;"nzingaretti";"<U+0001F534>#coronavirus. Tutte le informazioni, gli aggiornamenti e i numeri utili per i cittadini https://t.co/1zVdc3tV1r https://t.co/uA3qg030Kb";75;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-10 12:41:22;"nzingaretti";"Con i suoi provvedimenti il Governo ha fatto molto bene. 
+
+Ora bisogna stare a casa e non uscire se non per motivi indispensabili. 
+
+Ora è il momento della responsabilità individuale e dell’unità 
+
+#restiamoacasa #italiazonaprotetta";315;NA;FALSE;2824
+"Twitter for iPhone";"403544693";2020-03-09 11:52:18;"nzingaretti";"'Il Pd sosterrà tutte le misure restrittive che governo e autorità sanitarie riterranno necessarie.
+Rinnoviamo l’invito a rispettare le misure già emanate.
+Chi viola le norme mette a rischio la salute del prossimo, in particolare delle persone più vulnerabili' @AndreaOrlandosp";87;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-08 16:51:45;"nzingaretti";"Ringrazio i tanti i protagonisti della musica, del cinema, dello spettacolo che in queste ore stanno promuovendo sui social la campagna #iorestoacasa. Un messaggio importantissimo per i ragazzi.";489;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-08 13:38:11;"nzingaretti";"In questo momento difficile per il nostro Paese dedichiamo #8Marzo alle donne che lavorano per il servizio sanitario nazionale. Ha ragione il Presidente Mattarella. 
+
+A tutte le donne in prima linea contro la diffusione del #coronavirus va un grande grazie dall'Italia unita!";268;NA;FALSE;2370
+"Twitter for Android";"403544693";2020-03-07 12:25:18;"nzingaretti";"I medici mi hanno detto che sono positivo al Covid19. Sto bene ma dovrò rimanere a casa per i prossimi giorni. Da qui continuerò a seguire il lavoro che c’è da fare. Coraggio a tutti e a presto!";1825;NA;FALSE;26364
+"Twitter for iPhone";"403544693";2020-03-06 15:43:21;"nzingaretti";"La regione Lazio guidata da @nzingaretti decide di stanziare 3.5 milioni per i progetti di classi virtuali. Un ottimo investimento, che il governo sostiene anche attraverso l’implementazione del Piano Scuola Digitale.";48;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-06 15:21:44;"nzingaretti";"Grazie ancora agli operatori della sanità, a medici, infermieri, farmacisti e volontari che stanno lavorando con grande spirito di abnegazione e professionalità in tutta Italia. Vi siamo grati! #coronavirus";136;NA;FALSE;1048
+"Twitter for iPhone";"403544693";2020-03-05 18:48:16;"nzingaretti";"Dal Presidente Mattarella parole importanti. Per un po’ di tempo dovremo osservare regole che ci tengono più distanti fisicamente ma dovremo essere sempre più uniti per affrontare questo momento. Insieme ce la faremo. Siamo con l’Italia che combatte. 
+
+Grazie Presidente! https://t.co/DSmpuzmSG7";107;NA;FALSE;615
+"Twitter for iPhone";"403544693";2020-03-05 14:32:56;"nzingaretti";"'Dal nostro sito si potranno scaricare i materiali messi a disposizione per la campagna di informazione e divulgazione. No al panico ma sì alla responsabilità di ciascuno' @nzingaretti #coronavirus https://t.co/wRDHmfPzYK";31;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-05 14:32:42;"nzingaretti";"'Il PD è una grande comunità e tutti vogliamo dare un segnale. Per questo lanciamo una grande campagna di informazione e divulgazione per contrastare il #coronavirus' @nzingaretti https://t.co/3IpAHMl3Y8";60;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-05 14:32:34;"nzingaretti";"'Grazie a tutti gli operatori della sanità impegnati in queste ore' @nzingaretti #coronavirus";18;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-04 21:15:57;"nzingaretti";"Protect yourself and your community from coronavirus with common sense precautions: wash your hands, stay home when sick and listen to the @CDCgov and local health authorities. Save the masks for health care workers. Let’s stay calm, listen to the experts, and follow the science.";130704;NA;TRUE;0
+"Twitter for Android";"403544693";2020-03-04 20:35:05;"nzingaretti";"<U+0001F534> Stasera sarò a @RaiPortaaPorta. Parlerò dei giorni drammatici che stiamo vivendo e degli sforzi che ciascuno di noi può fare. Seguitemi #portaaporta https://t.co/djtZDqYTA1";16;NA;FALSE;84
+"Twitter for iPhone";"403544693";2020-03-04 10:01:30;"nzingaretti";"#coronavirus, continua l'impegno per rallentare il contagio. Ad oggi nel Lazio ci sono 590 posti in terapia intensiva e la Regione è pronta ad aggiungere ulteriori 173 posti dedicati alle malattie infettive. Raddoppieremo i posti e la capacità ricettiva dell'@INMISpallanzani https://t.co/2G174Mbgji";23;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-04 09:45:37;"nzingaretti";"In memoria di Nicola #Calipari, uomo di Stato, ucciso 15 anni fa mentre compiva il suo dovere per salvare Giuliana Sgrena. Non dimentichiamo il suo sacrificio e il lavoro di tutti quelli che lavorano per l'Italia e la sua sicurezza <U+0001F1EE><U+0001F1F9> https://t.co/I7vms7xQEw";80;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-03 16:57:32;"nzingaretti";"Connettere le grandi aree metropolitane garantendo efficacia, sicurezza e rapidità nei collegamenti.
+
+Abbiamo firmato un Protocollo con @nzingaretti, Marco Marsilio e RFI che avrà compito di identificare le soluzioni per potenziare i servizi ferroviari tra il Lazio e l’Abruzzo. https://t.co/g07qoeMqvt";26;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-03 15:48:57;"nzingaretti";"Oggi è un anno che sono segretario del @pdnetwork.
+
+Insieme siamo tornati protagonisti, dalla parte delle persone. Grazie a tutte e a tutti! https://t.co/wNlEGhPxFE";106;NA;FALSE;887
+"Twitter for iPhone";"403544693";2020-03-03 10:25:35;"nzingaretti";"Esprimo a nome di tutto @pdnetwork la massima solidarieta' a Roberto Cifarelli per la grave intimidazione di cui e' stato vittima la scorsa notte. Un atto vile e deplorevole di fronte al quale il Pd insieme a tutta la sua comunita' di certo non indietreggera";15;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-02 09:57:29;"nzingaretti";"'Il Pd ha presentato il #PianoXItalia per offrire il suo contributo al Governo. Gli incontri di queste settimane, compreso quello di oggi, erano preparati da tempo e servono per continuare un confronto utile con le parti sociali' @nzingaretti";19;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-03-01 22:48:54;"nzingaretti";"Bravo Roberto! Un’altra vittoria, con un grande scarto. L'alleanza funziona, da un po' si è tornati a vincere. 
+
+Grazie a tutte e tutti coloro che ci hanno creduto e che hanno combattuto in una situazione difficile. E non finisce qui! https://t.co/76kULF5gFb";179;NA;FALSE;1200
+"Twitter for iPhone";"403544693";2020-03-01 16:51:27;"nzingaretti";"Ho appena votato per le suppletive al collegio Roma 1. Andiamoci tutti, è importante! https://t.co/6tArMKEQtC";52;NA;FALSE;296
+"Twitter for iPhone";"403544693";2020-02-29 12:59:23;"nzingaretti";"In collegamento con @DPCgov, Governo e presidenti di Regione per aggiornamenti e misure #coronavirus. 
+
+Seguiamo le indicazioni della scienza e massimo coordinamento.  Priorità è sconfiggere virus, grande attenzione a provvedimenti per sostenere l'economia. L'Italia ce la farà <U+0001F1EE><U+0001F1F9> https://t.co/vtkLO86SPx";21;NA;FALSE;146
+"Twitter for iPhone";"403544693";2020-02-29 12:56:36;"nzingaretti";"Un ringraziamento al Presidente della @RegioneLazio, @nzingaretti per il sostegno. #giornatadellemalattierare #rarediseaseday @SaluteLazio https://t.co/ULxJ5vmDLF";6;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-28 15:32:14;"nzingaretti";"Stiamo combattendo una battaglia, ma uniti ce la faremo. Fermiamo il virus, riaccendiamo l'economia. Italia ti vogliamo bene! <U+2764><U+FE0F><U+0001F1EE><U+0001F1F9> https://t.co/etSWadJu74";109;NA;FALSE;733
+"Twitter for Android";"403544693";2020-02-27 14:24:42;"nzingaretti";"Ci vediamo questa sera a Milano! Ho aderito alla mobilitazione lanciata dal @PdMilano #MilanoNonSiFerma
+
+https://t.co/zjpwPOp4U8";90;NA;FALSE;362
+"Twitter for iPhone";"403544693";2020-02-26 18:38:06;"nzingaretti";"Ottimo il Governo su ‘zone rosse’, ora come indica @antoniomisiani al lavoro per imprese, commercio, professionisti, operatori di  trasporto e turismo e famiglie. Si avverte da subito il rallentamento economico per le restrizioni, siamo al loro fianco, #Coronaviriusitalia";9;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-26 15:13:21;"nzingaretti";"Un’ottima notizia: anche la donna cinese ricoverata allo Spallanzani non è più affetta dal #COVID19. Dopo il marito cinese e il ricercatore italiano sono quindi tutti guariti i pazienti nel Lazio. Bene così! Niente panico ma unità e collaborazione.";135;NA;FALSE;1004
+"Twitter for iPhone";"403544693";2020-02-26 13:11:27;"nzingaretti";"+++ #Coronavirus: NEGATIVIZZATI tutti i casi di #COVID19 ricoverati all'Istituto Spallanzani. L'istituto continua ad essere punto di riferimento nazionale per i test di verifica sui tamponi e sui casi sospetti +++ #Coronaviriusitalia #CODVID19italia https://t.co/EE9xTJLqyo";197;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-26 12:24:32;"nzingaretti";"Sconfiggiamo il #Coronavirus, riaccendiamo l'economia. 
+Sono due priorità assolute.
+
+Ora serve un segnale forte per imprese e lavoro. Come @pdnetwork faremo ogni sforzo. 
+
+L'Italia deve essere unita e ce la farà. Ne siamo sicuri!";109;NA;FALSE;666
+"Twitter for Android";"403544693";2020-02-24 11:28:32;"nzingaretti";"In queste ore di impegno e di preoccupazione, vogliamo dire grazie ai medici, agli infermieri, ai tecnici di laboratorio, agli operatori sanitari e ai ricercatori che stanno lavorando duramente per fronteggiare l’emergenza. 
+Fieri di voi. Fieri di questa Italia.
+#coronavirus https://t.co/dxPWF7ewvU";167;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-22 19:11:38;"nzingaretti";"Siamo tutti con @paola_demicheli aggredita nei social per aver espresso un’opinione. 
+
+Solidarietà e un abbraccio enorme. Uniamo l’Italia per fermare l’odio e la violenza";191;NA;FALSE;1482
+"Twitter for iPhone";"403544693";2020-02-22 17:03:15;"nzingaretti";"Le mie rose da Presidente per omaggiare una grande donna.
+
+A Nilde Iotti. Partigiana, madre costituente, insegnante, prima donna Presidente della Camera.
+
+Perché la lotta per i diritti delle donne e per un'Italia migliore è il suo esempio e la nostra strada. https://t.co/YZi78YHBg6";96;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-22 10:32:10;"nzingaretti";"Presidente del @pdemocratico, un ruolo che intendo svolgere con orgoglio e dedizione. Grazie all' #AssembleaPD e al segretario @nzingaretti per la fiducia, che spero di meritare ogni giorno da oggi in avanti. https://t.co/jElSgupBOM";42;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-22 08:58:14;"nzingaretti";"Giuliano Montaldo compie 90 anni! Buon compleanno, Maestro! 
+Con i grandi capolavori del  cinema hai attraversato la storia italiana con la stessa passione con cui racconti il grande cinema nelle scuole. Grazie!";8;NA;FALSE;88
+"Twitter for iPhone";"403544693";2020-02-21 18:52:56;"nzingaretti";"Il #QPF deve essere ambizioso. Invece in questi 2 giorni le posizioni di alcuni Paesi e del Presidente Michel non sono state all'altezza della sfida<U+0001F1EA><U+0001F1FA>.
+L'Italia<U+0001F1EE><U+0001F1F9> non ha sostenuto l'accordo perché ha a cuore la difesa dell'interesse nazionale e di un'Europa non ripiegata su di sé https://t.co/lCTiFPh0So";21;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-20 09:23:13;"nzingaretti";"Sono scioccato dalle notizie e dalle immagini che arrivano dalla Germania. Il terribile attentato di #Hanau ci ricorda che la lotta a ogni forma di razzismo e xenofobia purtroppo non è finita. Un pensiero alle famiglie delle vittime. L'odio e il terrore non vinceranno";81;NA;FALSE;511
+"Twitter for iPhone";"403544693";2020-02-19 17:33:15;"nzingaretti";"La nostra solidarietà al @PdMilano per l’aggressione subita. Un abbraccio a @SilviaRoggiani e alla nostra comunità di attivisti che con generosità e passione lavorano per costruire un’Italia migliore. Siamo tutti con voi!";96;NA;FALSE;437
+"Twitter for Android";"403544693";2020-02-19 11:37:32;"nzingaretti";"Non ci possiamo rassegnare alla cultura dell'odio, dobbiamo dare speranza ad una generazione di ragazze e ragazzi che meritano un futuro migliore. Noi ci siamo e voi? Unisciti a noi: https://t.co/XUHkJFT8zM https://t.co/OiW2dKCy0B";39;NA;FALSE;250
+"Twitter for iPhone";"403544693";2020-02-18 16:21:48;"nzingaretti";"Da gennaio parte il bonus rafforzato #asilinido: da 2500 a 3000 euro per aiutare le famiglie a inserire i bimbi in un percorso educativo. 
+Ora dobbiamo aumentare i posti negli asili grazie agli stanziamenti per costruzione e ristrutturazione! 
+Più info @INPS_it";62;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-18 15:59:36;"nzingaretti";"La Casa delle Donne rischiava di chiudere. Non potevamo permetterlo: è un bene comune che fa parte della storia di Roma.
+Chi non lo capisce sbaglia. Ora è salva. Le nostre città non solo solo strade o palazzi, ma comunità di identità e di valori condivisi. https://t.co/HCqA6QcMPc";97;NA;FALSE;661
+"Twitter for iPhone";"403544693";2020-02-17 12:38:59;"nzingaretti";"Al tavolo su agenda governo 2020/2023 abbiamo portato le priorità del @pdnetwork sulla #scuola: estensione obbligo 3-18 anni, gratuità dei libri di testo e tempo pieno. Investiamo sui talenti di ognuno, sul diritto allo studio universale per far crescere il Paese.";46;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-17 11:29:29;"nzingaretti";"Oggi siamo in qui a difendere la Casa delle Donne perché porta un valore aggiunto alla città, aiutano le persone a vivere meglio. Io credo sia il tempo di riconoscere in Italia il valore di queste reti di persone che si prendono cura del bene comune.";25;NA;FALSE;193
+"Twitter for Android";"403544693";2020-02-17 11:25:17;"nzingaretti";"Bisogna aiutare le famiglie con nuove politiche: investire nei consultori, in prevenzione, assistenza alle famiglie, assegno unico per i figli, asili nido gratuiti. Dobbiamo intervenire in questo senso perché abbiamo ben presenti i dati sulla natalità in Italia.";33;NA;FALSE;193
+"Twitter for Android";"403544693";2020-02-17 11:22:20;"nzingaretti";"Le ultime parole di Salvini? Come al solito siamo di fronte a tanta confusione e a un’aggressione nei confronti delle donne italiane.";53;NA;FALSE;332
+"Twitter for Android";"403544693";2020-02-17 11:19:08;"nzingaretti";"La sicurezza è un diritto dei cittadini. Va assicurata investendo sulle forze dell’ordine, sulla cultura, nelle periferie, nello sport: sull’idea vera di sicurezza e non attraverso la paura. Per noi è importante ed è fondamentale farlo in fretta";24;NA;FALSE;123
+"Twitter for Android";"403544693";2020-02-17 11:07:48;"nzingaretti";"Conte sta lavorando nell’interesse delle persone, su ciò che importa davvero, a partire dai decreti “propaganda”, che non servono a nulla, soprattutto a rendere l'Italia più sicura. Abbiamo un ottimo ministro dell’Interno ora che sta preparando dei decreti vivibilità e sicurezza.";69;NA;FALSE;495
+"Twitter for iPhone";"403544693";2020-02-17 09:16:58;"nzingaretti";"Tra poco alla Casa Internazionale delle Donne, perché l’unica scelta incivile è mettere in discussione i diritti delle donne";94;NA;FALSE;694
+"Twitter for iPhone";"403544693";2020-02-16 20:39:51;"nzingaretti";"Salvini la spara ogni giorno più grossa perché è in difficoltà. Con offese, teorie stravaganti e numeri a casaccio. 
+
+Per fortuna nei pronto soccorso italiani non ascoltano le sue provocazioni.
+
+Giù le mani dalle donne.
+Giù le mani dalla sanità italiana.
+#aborto";514;NA;FALSE;3883
+"Twitter for iPhone";"403544693";2020-02-16 12:07:25;"nzingaretti";"Roma con #Zaky. Aderisco all’iniziativa dei presidenti dei Municipi del centrosinistra. Mobilitiamoci per la sua liberazione! https://t.co/JfqW9MHgE4";84;NA;FALSE;346
+"Twitter for iPhone";"403544693";2020-02-15 19:41:00;"nzingaretti";"Ieri la Lega pro Europa, oggi Salvini è per l'uscita. Questa è la classica Lega che, con le sue contraddizioni, crea solo incertezze che pagano i cittadini. 
+
+Noi siamo l'Italia: un grande Paese europeista che a testa alta l'Europa la può e la deve cambiare, non distruggere";279;NA;FALSE;1971
+"Twitter for iPhone";"403544693";2020-02-15 17:17:39;"nzingaretti";"Una vittoria dell’Italia! No ai #dazi #Usa sui nostri prodotti alimentari. Ottimo lavoro del Ministro @amendolaenzo e del Governo, uniti per il bene delle nostre imprese e per riaccendere i motori dell’economia";109;NA;FALSE;664
+"Twitter for iPhone";"403544693";2020-02-15 16:14:51;"nzingaretti";"Ieri: villa confiscata al #clan dei #Casamonica.
+
+Oggi: centro per i ragazzi autistici. 
+
+Una vittoria dell’Italia perbene! https://t.co/sHcLL3BYUF";82;NA;FALSE;416
+"Twitter for iPhone";"403544693";2020-02-14 19:04:21;"nzingaretti";"Buon lavoro a @GiovanniLegnini . Imprese e attività commerciali, case, cultura, turismo, la ricostruzione deve andare avanti veloce. L’Italia deve essere unita  per riportare la vita nelle regioni del centro Italia colpite dal sisma";10;NA;FALSE;107
+"Twitter for Android";"403544693";2020-02-14 14:57:25;"nzingaretti";"Un grande piano che serve al mezzogiorno ma che è utile all’Italia e all’Europa. Uniti siamo più forti #sud2030";14;NA;FALSE;90
+"Twitter for Android";"403544693";2020-02-14 14:39:38;"nzingaretti";"Si torna finalmente a parlare delle persone e del loro futuro. Si mettono in campo investimenti che puntano alle infrastrutture, alle reti, alla conoscenza, alla ricerca e all’università, alla valorizzazione dei talenti, alla sostenibilità ambientale #sud2030";30;NA;FALSE;176
+"Twitter for Android";"403544693";2020-02-14 14:31:42;"nzingaretti";"Il Piano per il Sud è la conferma delle tante cose concrete, utili e positive che si potrebbero fare per gli italiani e per il Paese se solo prevalesse il buon senso, la solidarietà, la responsabilità #sud2030";35;NA;FALSE;172
+"Twitter for iPhone";"403544693";2020-02-14 13:01:31;"nzingaretti";"Con il Piano per il Sud @peppeprovenzano lancia un nuovo, grande progetto che unisce l’Italia, riaccende i motori dell’economia e finalmente porta lavoro e infrastrutture. 
+
+È tempo di di un futuro migliore per tutti #sud2030";56;NA;FALSE;281
+"Twitter for Android";"403544693";2020-02-14 09:41:02;"nzingaretti";"Un Piano per l'Italia con 5 obiettivi e 5 linee d'azione.
+Scuola, green economy, semplificazione, Equity Act contro le disuguaglianze, ricerca e conoscenza. E poi un grande piano per lo sviluppo e il lavoro. Cambiamo le cose per migliorare la vita delle persone https://t.co/1knHwRm8eW";91;NA;FALSE;420
+"Twitter for iPhone";"403544693";2020-02-13 17:30:14;"nzingaretti";"Guardare negli occhi ogni persona. Affrontare i problemi senza paura, senza scorciatoie della destra estrema che indica i nemici e poi fa crollare l’economia. 
+
+Bellissima conversazione con @LulaOficial, uno straordinario protagonista delle battaglie per combattere disuguaglianze https://t.co/xAjghdvSwy";56;NA;FALSE;222
+"Twitter for iPhone";"403544693";2020-02-13 09:54:11;"nzingaretti";"@lisanoja @nzingaretti Nessun taglio. Il Lazio ha incrementato di 55 milioni di euro nel triennio le risorse per l’assistenza  domiciliare";9;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-13 07:02:05;"nzingaretti";"Buone notizie: allo Spallanzani dimessa la comitiva di turisti dalla Cina, stanno tutti bene! Grazie, sono fiero dei nostri operatori sanitari! #coronavirus https://t.co/f2DNZH0eVR";53;NA;FALSE;497
+"Twitter for iPhone";"403544693";2020-02-12 08:57:34;"nzingaretti";"#12febbraio 1980: 40 anni fa Vittorio Bachelet veniva ucciso dalle BR. L’Italia perse un gigante della democrazia, una guida per le giovani generazioni: impegno, dedizione, passione civile. 
+
+Non perderemo mai il suo insegnamento.";43;NA;FALSE;307
+"Twitter for iPhone";"403544693";2020-02-11 15:11:18;"nzingaretti";"Diminuisce la popolazione per il quinto anno consecutivo, meno nascite e più italiani che lasciano il Paese. 
+
+Dai dati #Istat un altro segnale di urgenza: subito politiche per le famiglie, il sostegno alla genitorialità e un grande piano per il lavoro di qualità ai giovani";77;NA;FALSE;621
+"Twitter for iPhone";"403544693";2020-02-10 16:49:32;"nzingaretti";"Giusta retribuzione per i liberi professionisti, alla @RegioneLazio ce l’abbiamo fatta! #equocompenso è realtà. 
+
+Più garanzie, più tutele, stop a lavori sottopagati. Ora approviamo una legge nazionale per dare alle persone i loro diritti";48;NA;FALSE;277
+"Twitter for iPhone";"403544693";2020-02-09 11:18:25;"nzingaretti";"“Il Lazio è una grande regione di un grande paese, tutta da scoprire, sulla terra non esiste un’area con così tante attrazioni al mondo” le parole di @nzingaretti 
+
+#LazioGreen #LazioDelleMeraviglie #Bit2020 https://t.co/PRRYKeaDEQ";11;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-09 10:55:17;"nzingaretti";"Straordinaria accoglienza alla @bitmilano! 
+
+Un incredibile viaggio nella nostra bellissima Italia <U+0001F1EE><U+0001F1F9> https://t.co/cpPQbsMzH6";23;NA;FALSE;137
+"Twitter for iPhone";"403544693";2020-02-08 21:45:00;"nzingaretti";"Da un bel Festival parole da gigante di Tiziano Ferro. Chapeau! 
+#Sanremo2020";75;NA;FALSE;816
+"Twitter for iPhone";"403544693";2020-02-08 10:40:47;"nzingaretti";"Ottima notizia!  Abbiamo salvato i 129 lavoratori di Lazio Ambiente. 
+
+Era un impegno e noi gli impegni li manteniamo!";68;NA;FALSE;547
+"Twitter for iPhone";"403544693";2020-02-07 12:25:41;"nzingaretti";"@nzingaretti \"Serve un partito aperto che dia valore e dignità agli iscritti, rendendoli protagonisti dei processi decisionali. Il Congresso partirà dalla prossima Assemblea nazionale con un voto e un regolamento e si svilupperà in tutto il Paese con un'assemblea per ogni Comune\"@nzingaretti";22;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-07 12:25:35;"nzingaretti";"\"Il Pd non è disposto a subire temporeggiamenti o manovre per indebolire l'esecutivo. Noi siamo al potere per servire l'Italia\" @nzingaretti 
+#direzionePD #7febbraio https://t.co/AFUQDrxzMl";51;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-07 12:25:33;"nzingaretti";"@nzingaretti \"Il percorso del Congresso aperto potrebbe concludersi a fine aprile con una grande assemblea nazionale di due giorni e con la stesura di un manifesto per l'Italia di domani\"@nzingaretti #direzionePD #7febbraio";12;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-07 12:25:32;"nzingaretti";"@nzingaretti \"All'assemblea nazionale avanzerò la candidatura di una donna per la presidenza del PD\" @nzingaretti #DirezionePD #7febbraio";13;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 10:55:25;"nzingaretti";"Grazie Presidente Mattarella, un bell’esempio da seguire https://t.co/oL2DjnYaLP";89;NA;FALSE;791
+"Twitter for Android";"403544693";2020-02-06 10:03:22;"nzingaretti";"Se vi siete persi l'intervista di questa mattina a @_CircoMassimo_ potete riascoltarla sulla mia pagina facebook a questo link. Fatemi sapere la vostra. https://t.co/NMpGqgkM6s";9;NA;FALSE;39
+"Twitter for Android";"403544693";2020-02-06 08:54:22;"nzingaretti";"Governo, Zingaretti: \"Il governo deve fare o altrimenti si indebolisce\". E lancia un grande piano nazionale del lavoro [aggiornamento delle 09:02] https://t.co/kMHFoQymvm";14;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 08:54:05;"nzingaretti";"Zingaretti rimprovera Di Maio: \"La piazza è un errore, guardi al futuro\" https://t.co/RyLNkrJHnr";10;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 08:11:16;"nzingaretti";"Ci siamo svegliati con una notizia terribile. È deragliato un treno ad alta velocità all'altezza di Lodi: si parla di due persone decedute e molti feriti. Il mio pensiero è per loro, le loro famiglie, per i Vigili del Fuoco e per tutti coloro che sono lì ora. #frecciarossa https://t.co/JNRqeG3F5w";37;NA;FALSE;248
+"Twitter for Android";"403544693";2020-02-06 07:46:26;"nzingaretti";".@nzingaretti: \"Mattarella dice che non c'è altra maggioranza in questa legislatura? Anche a me sembrerebbe difficile, se non impossibile, pensare a nuove maggioranze. E comunque io non ci voglio pensare.\" #CircoMassimo";5;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:46:26;"nzingaretti";".@nzingaretti: \"La sconfitta politica di Matteo Salvini in Emilia Romagna è la sconfitta di un modo di rapportarsi al paese. A quella sconfitta una maggioranza che si rispetti dovrebbe rispondere con un colpo di reni.\" #CircoMassimo";5;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:40:50;"nzingaretti";".@nzingaretti: \"L'elemento di subalternità sta anche nel chiamarli decreti sicurezza. Io li chiamo decreti propaganda. Sono decreti dell'odio, hanno prodotto solo fragilità e frammentazione.\" #CircoMassimo";15;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:39:29;"nzingaretti";".@nzingaretti: \"La maggioranza deve prendere delle scelte in maniera intelligente. C'è un elemento di subalternità in chi pensa che la questione sia solo quella di rimuovere i decreti sicurezza. Bisogna mettere in campo una nostra idea di sicurezza.\" #CircoMassimo";5;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:33:17;"nzingaretti";".@nzingaretti: \"Sui contenuti e le scelte di campo abbiamo idee chiare, e su questo ci batteremo. Gli altri devono assumersi la loro responsabilità.\" #CircoMassimo";4;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:30:31;"nzingaretti";".@nzingaretti: \"Prescrizione? È evidente che se non si trova una soluzione si va avanti con la nostra proposta di legge o con il rinvio di un anno se si vuole salvare questo governo.\" #CircoMassimo";7;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:29:21;"nzingaretti";".@nzingaretti: \"Un'alleanza che vuole salvare il paese non si arena nella polemica ma rimette in campo una strategia per dare una prospettiva. Fermare le destre non vuol dire mettere paura di Salvini alle persone, ma dimostrare che si può fare meglio di lui\" #CircoMassimo";11;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:28:35;"nzingaretti";".@nzingaretti: \"Faccio una proposta: lavoriamo subito a un piano nazionale per il lavoro con le imprese e le università.\" #CircoMassimo";11;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:27:29;"nzingaretti";".@nzingaretti: \"Penso sia stato un errore, il giorno dopo la sconfitta di MAtteo Salvini in Emilia Romagna, far crescere polemiche che esaltavano i punti di dissenso invece di concentrarci sulla costruzione di fatti positivi.\" #CircoMassimo";9;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:26:28;"nzingaretti";".@nzingaretti: \"O si passa dalle parole ai fatti o il governo si indebolisce.\" #CircoMassimo";5;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-06 07:25:12;"nzingaretti";"con noi @nzingaretti #CircoMassimo https://t.co/sz4EnMnmrX";4;NA;TRUE;0
+"Twitter for Android";"403544693";2020-02-03 18:14:25;"nzingaretti";"Questa sera sono a Catanzaro. Non sopporto la brutta politica o i leader che si fanno vedere solo in campagna elettorale e poi scompaiono. Noi torniamo nei territori, tutti, dove si vince e ancora di più dove si perde: ci mettiamo la faccia e siamo al fianco di chi combatte.";65;NA;FALSE;636
+"Twitter for Android";"403544693";2020-02-03 16:32:49;"nzingaretti";"Scuola, università, ricerca: queste sono le nostre priorità. L'Italia deve investire di più e assumere 10.000 nuovi ricercatori https://t.co/mEg7wGByM8";55;NA;FALSE;309
+"Twitter for Android";"403544693";2020-02-03 08:29:10;"nzingaretti";"Dopo l'isolamento allo Spallanzani del #coronavirus rilanciamo la nostra proposta del Piano per l'Italia: l'aumento dei fondi per la ricerca e l'assunzione di 10.000 ricercatori.";170;NA;FALSE;1065
+"Twitter for Android";"403544693";2020-02-03 08:27:17;"nzingaretti";"Oggi in @RegioneLazio incontrerò le tre ricercatrici dello Spallanzani, Maria Rosaria Capobianchi, Francesca Colavita e Concetta Castilletti e poi l’Ambasciatore cinese in Italia, Li Junhua. Al lavoro per un futuro migliore! <U+0001F1EE><U+0001F1F9>";21;NA;FALSE;149
+"Twitter for Android";"403544693";2020-02-02 20:35:10;"nzingaretti";"@BianchiLuigia Assolutamente no. Lo diciamo da tempo.";0;"935563653243432960";FALSE;5
+"Twitter for Android";"403544693";2020-02-02 16:52:19;"nzingaretti";"Come @RegioneLazio abbiamo fatto una scelta di campo: raddoppiato i centri antiviolenza, raddoppiato gli investimenti permettendo a tutte di denunciare. Contributo di libertà a chi esce dalle case rifugio e sostegno economico agli orfani di #femminicidio.";31;NA;FALSE;131
+"Twitter for Android";"403544693";2020-02-02 16:50:22;"nzingaretti";"Contro il #femminicidio bisogna applicare la convenzione di Instanbul in tutte le sue parti, coinvolgere le scuole, i giovani, i media per cambiare la cultura. E poi servono case rifugio e percorsi di fuoriuscita.";30;NA;FALSE;148
+"Twitter for Android";"403544693";2020-02-02 16:47:07;"nzingaretti";"Sei donne morte in sette giorni. l'Italia deve affrontare una delle sue priorità: il #femminicidio. Basta minimizzare. Questo Governo deve e farà di più per assicurare alle donne Italiane, tutte, un futuro sereno, privo di paure.";79;NA;FALSE;467
+"Twitter for Android";"403544693";2020-02-02 16:26:23;"nzingaretti";"Lo Spallanzani sta facendo il giro del mondo, tre ricercatrici hanno isolato il #coronarovirus. Grazie a Maria Rosaria Capobianchi, Francesca Colavita, Concetta Castilletti.
+Tre storie, tre donne che sono un esempio dell’Italia che vogliamo! <U+2665><U+FE0F><U+0001F1EE><U+0001F1F9>
+https://t.co/ypbRK5WmtP";140;NA;FALSE;871
+"Twitter for iPhone";"403544693";2020-02-02 12:51:12;"nzingaretti";"Già lo sapevamo che Bari ha un grande Sindaco. Le scelte che sta facendo @Antonio_Decaro per il rispetto della legalità lo confermano. 
+
+Tutti con #Decaro e la sua bellissima #Bari 
+https://t.co/H87fBxO8Vp";25;NA;FALSE;128
+"Twitter for iPhone";"403544693";2020-02-02 12:13:09;"nzingaretti";"Una grande notizia! Lo #Spallanzani isola il virus responsabile del #coronavirus. Ora le cure sono più facili. 
+
+Grazie alla straordinaria squadra di medici e ricercatori che continua a rendere il Lazio e l’Italia grandi nel mondo <U+0001F44F> @RegioneLazio @SaluteLazio";157;NA;FALSE;999
+"Twitter for Android";"403544693";2020-02-02 10:43:40;"nzingaretti";"Le #sardine ci impongono una politica più sobria, vicina alle persone, che sappia ascoltare, che favorisca le nuove generazioni, la cultura, il sapere, che sappia rispondere alle grandi sfide del domani: crisi climatica, nuovi lavori e sviluppo sostenibile.";140;NA;FALSE;1215
+"Twitter for Android";"403544693";2020-02-02 10:40:25;"nzingaretti";"Rispettiamo assolutamente l'indipendenza e l'autonomia delle #Sardine, il nostro compito è quello di ascoltare e proporre soluzioni, politiche, che siano affini a questa richiesta. Le piazze sono state chiarissime: questo è quello che ci si aspetta dal @pdnetwork";30;NA;FALSE;156
+"Twitter for Android";"403544693";2020-02-02 10:37:42;"nzingaretti";"Il tentativo delle #Sardine, di rigenerazione delle istituzioni repubblicane, fondato sulla sobrietà e sulla valorizzazione delle persone dà fastidio a chi pratica una cattiva politica o cavalca l'antipolitica. È la nostra strada, ne condividiamo assolutamente il percorso.";35;NA;FALSE;210
+"Twitter for Android";"403544693";2020-02-02 10:34:35;"nzingaretti";"Che il movimento delle #Sardine si ponga l'obiettivo di rafforzare la democrazia italiana con idee e valori così netti, moralmente alti e con una partecipazione così grande di persone è davvero una novità nella società italiana a cui il @pdnetwork guarda con ammirazione.";69;NA;FALSE;602
+"Twitter for Android";"403544693";2020-02-02 10:32:31;"nzingaretti";"La lettera delle #Sardine stamattina a @repubblica è uno straordinario contributo politico e civile. Noi siamo qui per accogliere le loro richieste e scrivere insieme nuove pagine della nostra storia repubblicana. https://t.co/tnpDUfj5XP";31;NA;FALSE;143
+"Twitter for iPhone";"403544693";2020-02-01 16:36:17;"nzingaretti";"#coronavirus: seguiamo le indicazioni delle autorità sanitarie e usiamo cautela, ma nessun terrorismo psicologico e soprattutto basta con i soliti sciacalli che non vedevano l’ora di usare questa scusa per odiare e insultare. Uniti in questa battaglia comune! #AbbracciaUnCinese https://t.co/pUdqEl0piW";517;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-01 14:33:05;"nzingaretti";"Per essere di nuovo competitiva l'Italia deve affidarsi ai giovani, dobbiamo renderli protagonisti. L'obiettivo è un'economia sostenibile in uno Stato che non soffoca la voglia di fare con la burocrazia #italiacamp #insiemeperilpaese";35;NA;FALSE;239
+"Twitter for iPhone";"403544693";2020-02-01 14:32:36;"nzingaretti";"Abbiamo bisogno di un'etica della collaborazione, è fondamentale farlo in fretta, lavorando insieme. Le istituzioni hanno il dovere di aiutare chi vuole mettersi in gioco #italiacamp #insiemeperilpaese";19;NA;FALSE;145
+"Twitter for iPhone";"403544693";2020-02-01 14:32:17;"nzingaretti";"I miei migliori auguri a @italiacamp! Avevate visto lungo, oggi più che mai dobbiamo immaginare e costruire un futuro migliore del presente. Abbiamo bisogno di tutti per farlo #italiacamp #insiemeperilpaese";15;NA;FALSE;68
+"Twitter for iPhone";"403544693";2020-02-01 10:42:16;"nzingaretti";"@nzingaretti Costruire un futuro migliore del presente, é fondamentale farlo #insieme ed in fretta. #insiemeperilpaese @ItaliaCamp";7;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-02-01 10:42:10;"nzingaretti";".@nzingaretti Presidente della @RegioneLazio: \"dobbiamo immaginare un futuro migliore del presente: serve un'etica della collaborazione\" #insiemeperilpaese #italiateam";5;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-31 20:39:33;"nzingaretti";"Un grande abbraccio a Mimmo Lucano e alla sua famiglia in questo momento di dolore per la scomparsa di suo padre. Tutta la nostra comunità gli è vicina";91;NA;FALSE;1073
+"Twitter for iPhone";"403544693";2020-01-31 10:06:27;"nzingaretti";"#Coronavirus, il Presidente @nzingaretti  segue minuto per minuto evoluzione dell’emergenza: stamani vertice alla Regione https://t.co/6wZcuQAeHl";13;NA;TRUE;0
+"Twitter for Android";"403544693";2020-01-31 09:52:26;"nzingaretti";"Una splendida notizia: due dei tre film italiani in concorso a Berlino, ‘Siberia’ di Abel Ferrara e ‘Favolacce’ dei fratelli D’Innocenzo, sono coproduzioni sostenute dalla @RegioneLazio con ‘Lazio Cinema International’. Dal 2013 abbiamo investito più di 130 milioni nel cinema https://t.co/07pvHbLXR5";11;NA;FALSE;105
+"Twitter for iPhone";"403544693";2020-01-28 19:14:56;"nzingaretti";"Stiamo costruendo un Lazio più forte per l’interesse dell’Italia";5;"403544693";FALSE;53
+"Twitter for iPhone";"403544693";2020-01-28 19:14:44;"nzingaretti";"Oggi un dato straordinario: Lazio primo in Italia per crescita delle  imprese. 
+
+Domani sarò a Frascati con Enea ed Eni per lanciare uno dei più grandi progetti europei di ricerca e poi conferenza Stato/Regioni per la fine del commissariamento della sanità";22;NA;FALSE;172
+"Twitter for iPhone";"403544693";2020-01-28 14:15:25;"nzingaretti";"Ottima notizia! Il Lazio è la prima regione in Italia per tasso di crescita +1,4% e per aumento del numero delle imprese. Ora avanti con digitalizzazione, investimenti verdi e semplificazione per creare crescita e lavoro";87;NA;FALSE;735
+"Twitter for iPhone";"403544693";2020-01-27 15:20:30;"nzingaretti";"Ci vediamo tra poco a Modena per festeggiare la vittoria con @sbonaccini #elezioniregionali2020";24;NA;FALSE;240
+"Twitter for Android";"403544693";2020-01-27 11:13:50;"nzingaretti";"Addio ad un grande campione e a sua figlia Gianna Maria. Quello che hai fatto in vita ti ha reso immortale.
+#KobeByrant https://t.co/BfvkvDpb7h";39;NA;FALSE;290
+"Twitter for iPhone";"403544693";2020-01-27 08:30:15;"nzingaretti";"Il 27 gennaio 1945 furono abbattuti i cancelli del campo di #Auschwitz. Ricordiamo chi è stato ucciso dall'odio e lottiamo ogni giorno per evitare che quello che è stato possa riaccadere. Mai più #GiornodellaMemoria https://t.co/6kGnwJRJtZ";187;NA;FALSE;822
+"Twitter for iPhone";"403544693";2020-01-27 00:04:29;"nzingaretti";"Grazie a tutte e tutti. Un @pdnetwork unito e unitario!
+
+Per migliorare la vita delle persone";82;NA;FALSE;697
+"Twitter for iPhone";"403544693";2020-01-26 23:36:18;"nzingaretti";"Al @pdnetwork in attesa dei risultati <U+0001F603> https://t.co/GOiSluL8Mh";99;NA;FALSE;934
+"Twitter for iPhone";"403544693";2020-01-24 18:34:03;"nzingaretti";"C'è chi chiacchiera e scappa come ha fatto Salvini ad agosto.
+
+C’è chi ce la mette tutta per cambiare le cose.
+#regionali2020";52;NA;FALSE;363
+"Twitter for iPhone";"403544693";2020-01-24 08:29:08;"nzingaretti";"Finalmente le cose cominciano a cambiare: per 16 milioni di italiani gli stipendi aumentano. 
+
+Andiamo avanti, al lavoro per le famiglie e per le imprese italiane, per la crescita del nostro Paese";216;NA;FALSE;1158
+"Twitter for iPhone";"403544693";2020-01-23 15:25:00;"nzingaretti";"Ottima scelta del Ministro @dariofrance: riconosciuti i benefici del tax-credit ai videoclip musicali, opere d’arte che hanno fatto la storia  e oggi protagoniste di un’evoluzione continua. Un bel segnale per il mondo della musica!";39;NA;FALSE;266
+"Twitter for iPhone";"403544693";2020-01-22 21:14:31;"nzingaretti";"A Salvini consentito dalla Rai un solitario comizio durante l’intervallo della partita Juventus-Roma in piena campagna elettorale per l’Emilia Romagna. Mai così in basso, altro che libertà e autonomia. E lo chiamano servizio pubblico";1518;NA;FALSE;8683
+"Twitter for iPhone";"403544693";2020-01-22 18:46:13;"nzingaretti";"A @luigidimaio un abbraccio per una scelta difficile che rispettiamo. A @vitocrimi un grande in bocca al lupo. C’è un’Italia che ha bisogno di crescita, lavoro, equità. Continueremo a lavorare per dare risposte e soluzioni concrete alle persone";124;NA;FALSE;930
+"Twitter for iPhone";"403544693";2020-01-20 16:25:17;"nzingaretti";"Oggi ricordiamo Martin Luther King, un uomo che ha dedicato la propria vita alla giustizia e alla libertà. Le sue battaglie hanno cambiato in meglio il nostro mondo. Hanno cambiato la storia. Le sue idee vivono con noi #MLKDay https://t.co/8nDHy0Jqs2";91;NA;FALSE;573
+"Twitter for iPhone";"403544693";2020-01-20 14:36:33;"nzingaretti";"Sanremo ha  avuto grandi interpreti a rappresentare il talento, la competenza e l’autorevolezza delle donne. Quest’anno si trasmette un brutto messaggio, che offende le donne. Tutti siamo chiamati in causa.
+
+Da Sanremo e dalla Rai ci aspettiamo passi in avanti, non passi indietro";133;NA;FALSE;821
+"Twitter for Android";"403544693";2020-01-20 09:19:56;"nzingaretti";"20 gennaio 1920 - 20 gennaio 2020
+100 anni fa nasceva Federico Fellini
+Grazie di tutto, Maestro! #Fellini100 https://t.co/jxL1eKUOjM";38;NA;FALSE;195
+"Twitter for iPhone";"403544693";2020-01-20 08:00:58;"nzingaretti";"<U+0001F534> \"Per chi tifo a #Sanremo2020? Prima voglio ascoltare le canzoni. Il cast? Tutti vanno giudicati sulle canzoni, non bisogna avere pregiudizi\"
+
+@nzingaretti <U+0001F399><U+FE0F>
+#nonstopnews";6;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-20 08:00:51;"nzingaretti";"<U+0001F534> \"72 ore fa si sono tagliate #tasse su 16 milioni di #stipendi di italiani, che avranno più soldi in #bustapaga: 100 euro in più al mese\".
+
+@nzingaretti <U+0001F399><U+FE0F>
+#nonstopnews";17;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-20 08:00:46;"nzingaretti";"<U+0001F534> \"#Gregoretti, #Salvini sta usando ancora una volta giustizia per motivi politici e personali. Scelta va presa leggendo le carte, non per indirizzo politico. Lui è garantista su se stesso, giustizialista per avversari\"
+
+@nzingaretti <U+0001F4DE>
+#nonstopnews
+
+<U+27A1><U+FE0F> https://t.co/CrnOqqPxaE https://t.co/VLogmCUhPt";19;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-20 08:00:38;"nzingaretti";"<U+0001F534> \"#Sardine non è un movimento del #Pd, è movimento libero e autonomo. È immensa risorsa per tutti i cittadini. Non tiriamoli per la giacchetta\".
+
+@nzingaretti <U+0001F4DE>
+#nonstopnews";15;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-20 08:00:34;"nzingaretti";"<U+0001F534> \"In caso di sconfitta del #Pd in #EmiliaRomagna cadrebbe il governo? No. #Salvini evita di promuovere la loro candidata #Borgonzoni perché è oggettivamente più fragile di #Bonaccini, lo sanno anche loro\".
+
+@nzingaretti <U+0001F4DE>
+#nonstopnews";16;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-20 08:00:26;"nzingaretti";"<U+0001F534> #Elezioniregionali, sono molto ottimista. Sono orgoglioso di un partito che dopo la sconfitta drammatica del 2018 è tornato in campo ed è pilastro di alternative alle destre\".
+
+@nzingaretti <U+0001F4DE>
+#nonstopnews";5;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-20 08:00:21;"nzingaretti";"<U+0001F534> \"Italiani non amano le polemiche, chiedono alla politica soluzioni, non polemiche. #Pd punta su necessità di fare, spero insieme agli alleati\"
+
+@nzingaretti <U+0001F4DE>
+#nonstopnews
+
+Intervista integrale su https://t.co/CrnOqqPxaE https://t.co/iIG5mofuim";8;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-20 07:47:11;"nzingaretti";"<U+0001F534> A #nonstopnews ora ospite il segretario del #Pd @nzingaretti <U+0001F4DE> https://t.co/OHexjh90yk";7;NA;TRUE;0
+"Twitter for iPhone";"403544693";2020-01-19 18:05:38;"nzingaretti";"Da soli si va più veloce, insieme si va più lontano. Grazie per questa passione e questo protagonismo. Ossigeno per la democrazia nata dalla lotta antifascista https://t.co/3x3PrmsL8R";296;NA;FALSE;2274
+"Twitter for iPhone";"403544693";2020-01-18 18:17:44;"nzingaretti";"Ottima notizia! Anche in Toscana si è formata una grande alleanza delle forze democratiche, di sinistra, progressiste e ambientaliste. La forza dell’unità ha vinto. Ora avanti con Giani";156;NA;FALSE;1094
+"Twitter for Android";"403544693";2020-01-18 13:25:36;"nzingaretti";"@seneca1900 Grazie!";1;"740277257424523264";FALSE;3
+"Twitter for Android";"403544693";2020-01-18 09:35:34;"nzingaretti";"@Alessia19877522 Siamo assolutamente d'accordo!";1;"1116415370607431682";FALSE;1
+"Twitter for Android";"403544693";2020-01-18 09:35:09;"nzingaretti";"@Luca42580688 Nel Lazio lo stiamo facendo, inoltre il rispetto dei tempi, da quando ci siamo noi è salito dal 50% all'80%";2;"1178393186055720962";FALSE;4
+"Twitter for Android";"403544693";2020-01-18 09:33:37;"nzingaretti";"@loreatutteleore @TheRipp69062828 Questo è quello che pensiamo, nessun hackeraggio <U+0001F609>";1;"4705359926";FALSE;2
+"Twitter for Android";"403544693";2020-01-18 09:32:29;"nzingaretti";"@pmattoccia @RegioneLazio È quello che facciamo tutti i giorni, abbiamo trovato una Regione al collasso e i dati ci dicono che stiamo lavorando bene. La strada è ancora lunga ma partivamo da lontano";1;"3068039679";FALSE;6
+"Twitter for Android";"403544693";2020-01-18 09:30:39;"nzingaretti";"@FuBabbo I sondaggi ci dicono tutt'altro, il PD continua a crescere.";0;"619962351";FALSE;2
+"Twitter for Android";"403544693";2020-01-18 09:28:45;"nzingaretti";"@citty1968 Un punto fondamentale per riaccendere i motori dell'Italia";0;"2984232394";FALSE;0
+"Twitter for Android";"403544693";2020-01-18 09:26:06;"nzingaretti";"@PensareSociali1 Sono assolutamente d'accordo!";2;"1124584647718051840";FALSE;3
+"Twitter for Android";"403544693";2020-01-18 09:19:24;"nzingaretti";"@BiasionOscar Assolutamente!";0;"1033353182322339840";FALSE;1
+"Twitter for Android";"403544693";2020-01-17 18:42:49;"nzingaretti";"Dobbiamo rendere più semplice la vita dei cittadini e delle imprese. Prima di tutto lotta alla burocrazia per un’Italia più competitiva che crea sviluppo e lavoro https://t.co/hwjm0KFk7W";47;NA;FALSE;175
+"Twitter for Android";"403544693";2020-01-17 18:23:48;"nzingaretti";"Parità di salario tra donne e uomini. Per noi è un obiettivo concreto per rendere il nostro Paese più giusto. https://t.co/tVzN3zDRug";46;NA;FALSE;175
+"Twitter for Android";"403544693";2020-01-17 18:06:59;"nzingaretti";"Per la sanità bisogna fare sempre di più. Ecco 2 proposte. Infermieri di condominio e cure odontoiatriche gratuite per i redditi fino a 30.000€. Un dovere verso chi ha bisogno di una mano https://t.co/Z5arD1Yg4N";86;NA;FALSE;338
+"Twitter for Android";"403544693";2020-01-17 17:39:21;"nzingaretti";"In cinque anni aumenteremo la spesa per la conoscenza, raggiungeremo i livelli europei. Il futuro dell’Italia passa da un investimento forte su scuola, università, ricerca e conoscenza https://t.co/tfMpRnLSjT";56;NA;FALSE;249
+"Twitter for Android";"403544693";2020-01-17 17:16:17;"nzingaretti";"L'Italia può ripartire solo con una rivoluzione #green: più investimenti per lo sviluppo sostenibile a partire dagli edifici pubblici, che devono essere sostenibili https://t.co/6XoJEZ6tOW";46;NA;FALSE;144
+"Twitter for iPhone";"403544693";2020-01-17 15:32:53;"nzingaretti";"Salvini chiacchiera. 
+
+Noi tagliamo le tasse e alziamo gli stipendi dei lavoratori.";224;NA;FALSE;1454
+"Twitter for iPhone";"403544693";2020-01-17 13:31:26;"nzingaretti";"Ottimo l'inizio del taglio delle tasse sugli stipendi. Lo abbiamo chiesto con forza, ora è realtà. Non fermiamoci, continuiamo concretamente a cambiare!";62;NA;FALSE;395
+"Twitter for iPhone";"403544693";2020-01-17 08:20:02;"nzingaretti";"Bene la tendenza nei sondaggi: @pdnetwork forza viva e centrale della democrazia italiana. Tutte e tutti al lavoro al Governo e nelle città con le persone per cambiare l'Italia e fermare le destre";116;NA;FALSE;817
+"Twitter for iPhone";"403544693";2020-01-16 18:01:19;"nzingaretti";"Un altro bluff di Salvini è caduto. Ora avanti per cambiare davvero l'Italia #Referendum";117;NA;FALSE;935
