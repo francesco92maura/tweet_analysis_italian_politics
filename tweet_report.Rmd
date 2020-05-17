@@ -1,0 +1,155 @@
+---
+title: 'Covid-19 e politica italiana: analisi testuale dei tweet'
+author: "Francesco Maura"
+output:  pdf_document
+---
+
+```{r setup, include=FALSE}
+# load other packages
+library(tidyverse)
+library(lubridate)
+library(tidyr)
+library(scales)
+library(tidytext)
+
+# package for stopwords in italian
+# install.packages("tm")
+library(tm)
+stopparole <- tm::stopwords("italian")
+
+# word cloud
+library(wordcloud)
+
+knitr::opts_chunk$set(fig.pos = "H")
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Introduzione
+
+L'attuale crisi sanitaria, economica e sociale dovuta alla diffusione dell'ormai noto virus *Covid-19* ha decisamente spostato l'attenzione mediatica del sistema italiano sul Primo Ministro Giuseppe Conte. Negli ultmi mesi, infatti, tra dirette, interviste, dichiarazioni, decreti e chi più ne ha più ne metta, l'attenzione mediatica intorno alla sua figura è decisamente aumentata, portantodolo come mai prima d'ora al centro dell'attenzione.
+
+Ma cosa ha detto Giuseppe Conte al suo Paese? Su quali aspetti della pandemia in corso si è più focalizzat nella sua strategia comunicativa? E, ultimo ma non meno importante, come si sono mosse le altre forze politiche per contrastarlo/sostenerlo.
+
+Questo breve articolo prova a rispondere a queste domande tramite tecniche di text-analitycs e sentiment analysis, utilizzando come fonte dati i tweet dei profili ufficiali di quattro dei maggiori esponenti politici del panorama italiano: Giuseppe Conte [\underline{@GiuseppeConteIT}](https://twitter.com/GiuseppeConteIT "@GiuseppeConteIT"), Matteo Salvini 
+[\underline{@matteosalvinimi}](https://twitter.com/matteosalvinimi "@matteosalvini"), Nicola Zingaretti
+[\underline{@nzingaretti}](https://twitter.com/nzingaretti "@nzingaretti") e Antonio Tajani  [\underline{@Antonio\_Tajani}](https://twitter.com/Antonio_Tajani "@Antonio\_Tajani").
+
+## I dati
+
+```{r data loading, echo=FALSE, results='hide', warning=FALSE}
+# load datsframe
+conte <- read.table("conte.txt", header=TRUE, sep = ";", fill = TRUE)
+salvini <- read.table("salvini.txt", header=TRUE, sep = ";", fill = TRUE)
+zingaretti <- read.table("zingaretti.txt", header=TRUE, sep = ";", fill = TRUE)
+tajani <- read.table("tajani.txt", header=TRUE, sep = ";", fill = TRUE)
+
+# from factor to character
+conte[] <- lapply(conte, as.character)
+salvini[] <- lapply(salvini, as.character)
+zingaretti[] <- lapply(zingaretti, as.character)
+tajani[] <- lapply(tajani, as.character)
+```
+Sono stati analizzati gli ultimi 3000 tweets circa dei vari account, selezionando solo quelli twittati dal 15 gennaio 2020 ad oggi. Come possiamo vedere dalla tabella seguente, l'account più attivo è stato senza dubbio @matteosalvinimi, con una strategia comunicativa più insistente rispetto a quella dei suoi avversari politici. Da sottolineare però che buona parte dei tweet di questo account riportano alcune dichiarazioni del segretario federale della Lega Nord rilasciate in contesti diversi dai social network.
+
+Guardando invece ai *retweet* medi per singolo *tweet*, si può notare come la risonanza delle comunicazione dell'account @GiuseppeConteIT sia molto più elevata; ciò è probabilmente dovuto ad una maggiore attenzione alle comunicazioni del primo ministro italiano in questo periodo e alle aspettative del popolo italiano stesso rispetto ad esse. 
+
+```{r summary tweet, echo=FALSE, results='asis'}
+tweet <- bind_rows(conte, salvini, zingaretti, tajani)
+nomi <- c("GiuseppeConteIT", "matteosalvinimi", "nzingaretti", "Antonio_Tajani" )
+tweet <- tweet %>% filter(screen_name %in% nomi)
+basic_stat <- tweet %>% group_by(screen_name) %>% summarise(
+            tweet = n(),
+            retweet = mean(as.numeric(retweet_count), na.rm = TRUE)) %>% arrange(desc(retweet))
+# basic_stat <- basic_stat %>% filter(!screen_name == "" & !screen_name == "FALSE")
+
+knitr::kable(basic_stat, row.names=FALSE,  digits = 0, format = "pandoc",
+                   caption = "Tweet - statistiche descrittive")
+
+pattern <- "([^A-Za-z\\d#@']|'(?![A-Za-z\\d#@]))"
+
+# word analysis
+# identify the single words in each tweets and build separate database for them
+words_filter <- function(dataset){
+  dataset %>%
+    mutate(text = str_replace_all(text, #remove link to pictures
+                                  "https://t.co/[A-Za-z\\d]+|&amp;", "")) %>%
+    unnest_tokens(word, text, token = "regex", pattern = pattern) %>%
+    filter(!word %in% stopparole & 
+             !str_detect(word, "^\\d+[A-Za-z]*\\d*[A-Za-z]*\\d*$") &
+             !str_detect(word, "^[A-Za-z]{1,2}$")) %>% 
+    filter(!word %in% stop_words$word & !word == "fe0f") %>%
+    select(word)
+}
+
+conte_w <- words_filter(conte)
+salvini_w <- words_filter(salvini)
+zingaretti_w <- words_filter(zingaretti)
+tajani_w <- words_filter(tajani)
+
+# what are the most common used words?
+conte_count <- conte_w %>% count(word) %>% arrange(desc(n))
+salvini_count <- salvini_w %>% count(word) %>% arrange(desc(n)) %>%
+  filter(word != "matteosalvinimi" & word != "twitter")
+zingaretti_count <- zingaretti_w %>% count(word) %>% arrange(desc(n)) 
+tajani_count <- tajani_w %>% count(word) %>% arrange(desc(n)) 
+
+nrc <- read.table("nrc_en_it.txt", sep = ";", header = TRUE, quote = "")
+# function for sentiment analysis
+sentiment_analysis <- function(dataset){
+  sentiment_counts <- dataset %>%
+    left_join(nrc, by = "word") %>%
+    count(sentiment) %>%
+    filter(!sentiment == "NA") %>% arrange(desc(n)) %>%
+    mutate(prct = round(n/sum(n)*100, digits = 1))
+  sentiment_counts
+} 
+```
+
+## L'analisi
+
+### Giuseppe Conte
+```{r conte wordcloud, echo=FALSE, results='asis', warning=FALSE}
+wordcloud(conte_count$word, conte_count$n, min.freq = 3,
+          max.words=100, random.order=FALSE, rot.per=0.3,
+          colors=brewer.pal(8, "Dark2"))
+
+conte_sent <- sentiment_analysis(conte_count)
+knitr::kable(conte_sent, row.names=FALSE,  digits = 1, format = "pandoc",
+                   caption = "Sentiment analysis - tweet di @GiuseppeConteIT")
+```
+
+### Matteo Salvini
+
+```{r salvini wordcloud, echo=FALSE, results='asis', warning=FALSE}
+wordcloud(salvini_count$word, salvini_count$n, min.freq = 3,
+          max.words=100, random.order=FALSE, rot.per=0.3,
+          colors=brewer.pal(8, "Dark2"))
+
+salvini_sent <- sentiment_analysis(salvini_count)
+knitr::kable(salvini_sent, row.names=FALSE,  digits = 1, format = "pandoc",
+                   caption = "Sentiment analysis - tweet di @matteosalvinimi")
+```
+### Antonio Tajani
+
+```{r tajani wordcloud, echo=FALSE, results='asis', warning=FALSE}
+wordcloud(tajani_count$word, tajani_count$n, min.freq = 3,
+          max.words=100, random.order=FALSE, rot.per=0.3,
+          colors=brewer.pal(8, "Dark2"))
+
+tajani_sent <- sentiment_analysis(tajani_count)
+knitr::kable(tajani_sent, row.names=FALSE,  digits = 1, format = "pandoc",
+                   caption = "Sentiment analysis - tweet di @Antonio_Tajani")
+```
+
+### Nicola Zingaretti
+
+```{r zingaretti wordcloud, echo=FALSE, results='asis', warning=FALSE}
+wordcloud(zingaretti_count$word, zingaretti_count$n, min.freq = 3,
+          max.words=100, random.order=FALSE, rot.per=0.3,
+          colors=brewer.pal(8, "Dark2"))
+
+zingaretti_sent <- sentiment_analysis(zingaretti_count)
+knitr::kable(zingaretti_sent, row.names=FALSE,  digits = 1, format = "pandoc",
+                   caption = "Sentiment analysis - tweet di @nzingaretti")
+```
+
+## Conclusioni
