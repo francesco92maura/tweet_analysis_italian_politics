@@ -11,6 +11,7 @@ library(lubridate)
 library(tidyr)
 library(scales)
 library(tidytext)
+library(gridExtra)
 
 # package for stopwords in italian
 # install.packages("tm")
@@ -23,7 +24,6 @@ library(wordcloud)
 knitr::opts_chunk$set(fig.pos = "H")
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## Introduzione
 
 L'attuale crisi sanitaria, economica e sociale dovuta alla diffusione dell'ormai noto virus *Covid-19* ha decisamente spostato l'attenzione mediatica del sistema italiano sul Primo Ministro Giuseppe Conte. Negli ultmi mesi, infatti, tra dirette, interviste, dichiarazioni, decreti e chi più ne ha più ne metta, l'attenzione mediatica intorno alla sua figura è decisamente aumentata, portantodolo come mai prima d'ora al centro dell'attenzione.
 
@@ -48,7 +48,7 @@ salvini[] <- lapply(salvini, as.character)
 zingaretti[] <- lapply(zingaretti, as.character)
 tajani[] <- lapply(tajani, as.character)
 ```
-Sono stati analizzati gli ultimi 3000 tweets circa dei vari account, selezionando solo quelli twittati dal 15 gennaio 2020 ad oggi. Come possiamo vedere dalla tabella seguente, l'account più attivo è stato senza dubbio @matteosalvinimi, con una strategia comunicativa più insistente rispetto a quella dei suoi avversari politici. Da sottolineare però che buona parte dei tweet di questo account riportano alcune dichiarazioni del segretario federale della Lega Nord rilasciate in contesti diversi dai social network.
+Sono stati analizzati gli ultimi 3000 tweets circa dei vari account, selezionando quelli con data successiva al 15 gennaio 2020. Come possiamo vedere dalla tabella seguente, l'account più attivo è stato senza dubbio @matteosalvinimi, con una strategia comunicativa più insistente rispetto a quella dei suoi avversari politici. Da sottolineare, però, come buona parte dei tweet di questo account riportino semplicemente alcune dichiarazioni del segretario federale della Lega Nord, rilasciate in contesti diversi dai social network. è quindi evidente 
 
 Guardando invece ai *retweet* medi per singolo *tweet*, si può notare come la risonanza delle comunicazione dell'account @GiuseppeConteIT sia molto più elevata; ciò è probabilmente dovuto ad una maggiore attenzione alle comunicazioni del primo ministro italiano in questo periodo e alle aspettative del popolo italiano stesso rispetto ad esse. 
 
@@ -106,50 +106,98 @@ sentiment_analysis <- function(dataset){
 
 ## L'analisi
 
+\textbf{Una breve premessa - come leggere i grafici} nelle pagine seguenti saranno riportati due tipologie di grafico, uno è il cosidetto \textit{wordcloud}, che riporta una selezione delle parole usate più di frequente nel testo in analisi con una scala di grandezza decrescente, il secondo  fa invece rifermento alla \textit{sentiment analysis}, dove si cerca di analizzare le sensazioni del testo utilizzando un elenco di parle chiave asociate a diverse tipologie di sentimenti.
+
 ### Giuseppe Conte
-```{r conte wordcloud, echo=FALSE, results='asis', warning=FALSE}
-wordcloud(conte_count$word, conte_count$n, min.freq = 3,
+```{r conte wordcloud, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
+wcl <- wordcloud(conte_count$word, conte_count$n, min.freq = 3,
           max.words=100, random.order=FALSE, rot.per=0.3,
           colors=brewer.pal(8, "Dark2"))
-
-conte_sent <- sentiment_analysis(conte_count)
-knitr::kable(conte_sent, row.names=FALSE,  digits = 1, format = "pandoc",
-                   caption = "Sentiment analysis - tweet di @GiuseppeConteIT")
 ```
+
+Le parole più utilizzate dall'account \textit{twitter} del Primo Ministro italiano fanno pensare che questi abbia utilizzato questo social per richiamare l'attenzione sulle sue ormai famose conferenze, tramite le quali ha spesso comunicato notizie chiave per affrontare l'emergenza Covid-19 in Italia. Oltre a ciò, risaltano \texttt{cittadini, insieme} ed \texttt{emergenza}, quasi a ricordarci come si possa uscire da questa situazione solamente collaborando e sostenendoci a vicenda.
+
+```{r conte setiment, echo=FALSE, results='asis', warning=FALSE, fig.align='left',fig.width=3, fig.height=3}
+conte_sent <- sentiment_analysis(conte_count)
+sent <- conte_sent %>% mutate(sentiment = reorder(sentiment, n)) %>%
+        ggplot(aes(x = sentiment, y = n)) +
+        geom_bar(aes(fill = sentiment), stat = "identity") +
+        coord_flip() + xlab("") +
+        theme(legend.position = "none")
+
+sent
+#knitr::kable(conte_sent, row.names=FALSE,  digits = 1, format = "pandoc",
+#                   caption = "Sentiment analysis - tweet di @GiuseppeConteIT")
+```
+
+La sentiment analysis evidenzia come la strategia di comunicazione punti a lasciare messaggi di speranza e positività rispetto alla pandemia. Difatti, \textit{positivo} e \textit{fiducia} guidano questa graduatoria. Subito dopo troviamo però ben tre sentiment negativi, \textit{negativo, paura} e \textit{tristezza}, sicuramente legati alle tante ferite che il virus ha lasciato e sta lasciando sul nostro territorio.
 
 ### Matteo Salvini
 
-```{r salvini wordcloud, echo=FALSE, results='asis', warning=FALSE}
-wordcloud(salvini_count$word, salvini_count$n, min.freq = 3,
+```{r salvini wordcloud, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
+wcl <- wordcloud(salvini_count$word, salvini_count$n, min.freq = 3,
           max.words=100, random.order=FALSE, rot.per=0.3,
           colors=brewer.pal(8, "Dark2"))
-
-salvini_sent <- sentiment_analysis(salvini_count)
-knitr::kable(salvini_sent, row.names=FALSE,  digits = 1, format = "pandoc",
-                   caption = "Sentiment analysis - tweet di @matteosalvinimi")
 ```
+
+Potrebbe risultare strano come la parola più utilizzata dall'account twitter di Matteo Salvini sia proprio \texttt{\#Salvini}; questo si lega a quanto anticipato nei paragrafi precedenti, ovvero che buona parte di questi tweet riportano dichiarazioni del Segretario della Lega e questi iniziano, appunto, con l'hashtag \texttt{\#Salvini}. Fatta questa breve premessa, risaltano le parole che potremmo definire tipiche di Matteo Salvini, quali \texttt{amici} e \texttt{italiani}. Curioso come sia l'unico account a non avere in evidenza l'hashtag \texttt{\#coronavirus}.
+
+```{r salvini sentiment, echo=FALSE, results='asis', warning=FALSE, fig.align='left',fig.width=3, fig.height=3}
+salvini_sent <- sentiment_analysis(salvini_count)
+sent <- salvini_sent %>% mutate(sentiment = reorder(sentiment, n)) %>%
+        ggplot(aes(x = sentiment, y = n)) +
+        geom_bar(aes(fill = sentiment), stat = "identity") +
+        coord_flip() + xlab("") +
+        theme(legend.position = "none")
+sent
+#grid.arrange(wcl, sent, ncol = 2)
+
+#knitr::kable(salvini_sent, row.names=FALSE,  digits = 1, format = "pandoc",
+#                   caption = "Sentiment analysis - tweet di @matteosalvinimi")
+```
+
+Per quanto riguarda i sentiment, notiamo una quasi partià tra la frequenza di \textit{positivo} (che rimane comunque primo) ed \textit{negativo}, che insieme distaccano nettamente le altre categorie. Essendo il principale referente dell'opposizione, è plausibile che ci sia un'alta negativà nei suoi tweet, laddove uno dei ruoli dell'opposizione rimane la critica costruttiva dell'operato del governo e questa difficilmente può essere espressa con espressioni positive. Di seguito troviamo poi gli stessi sentiment del Primo Ministro, anche se in ordine leggermente differente.
+
 ### Antonio Tajani
 
-```{r tajani wordcloud, echo=FALSE, results='asis', warning=FALSE}
-wordcloud(tajani_count$word, tajani_count$n, min.freq = 3,
+```{r tajani wordcloud, echo=FALSE, results='asis', warning=FALSE, fig.align='left', out.width="300px"}
+wcl <- wordcloud(tajani_count$word, tajani_count$n, min.freq = 3,
           max.words=100, random.order=FALSE, rot.per=0.3,
           colors=brewer.pal(8, "Dark2"))
+```
 
+
+```{r tajani sentiment, echo=FALSE, results='asis', warning=FALSE, fig.align='left',fig.width=3, fig.height=3}
 tajani_sent <- sentiment_analysis(tajani_count)
-knitr::kable(tajani_sent, row.names=FALSE,  digits = 1, format = "pandoc",
-                   caption = "Sentiment analysis - tweet di @Antonio_Tajani")
+sent <- tajani_sent %>% mutate(sentiment = reorder(sentiment, n)) %>%
+        ggplot(aes(x = sentiment, y = n)) +
+        geom_bar(aes(fill = sentiment), stat = "identity") +
+        coord_flip() + xlab("") +
+        theme(legend.position = "none")
+sent
+#knitr::kable(tajani_sent, row.names=FALSE,  digits = 1, format = "pandoc",
+#                   caption = "Sentiment analysis - tweet di @Antonio_Tajani")
 ```
 
 ### Nicola Zingaretti
 
-```{r zingaretti wordcloud, echo=FALSE, results='asis', warning=FALSE}
-wordcloud(zingaretti_count$word, zingaretti_count$n, min.freq = 3,
+```{r zingaretti wordcloud, echo=FALSE, results='asis', warning=FALSE, fig.align='left', out.width="300px"}
+wcl <- wordcloud(zingaretti_count$word, zingaretti_count$n, min.freq = 3,
           max.words=100, random.order=FALSE, rot.per=0.3,
           colors=brewer.pal(8, "Dark2"))
+```
 
+
+```{r zingaretti sentiment, echo=FALSE, results='asis', warning=FALSE, fig.align='left',fig.width=3, fig.height=3}
 zingaretti_sent <- sentiment_analysis(zingaretti_count)
-knitr::kable(zingaretti_sent, row.names=FALSE,  digits = 1, format = "pandoc",
-                   caption = "Sentiment analysis - tweet di @nzingaretti")
+sent <- zingaretti_sent %>% mutate(sentiment = reorder(sentiment, n)) %>%
+        ggplot(aes(x = sentiment, y = n)) +
+        geom_bar(aes(fill = sentiment), stat = "identity") +
+        coord_flip() + xlab("") +
+        theme(legend.position = "none")
+sent
+#knitr::kable(zingaretti_sent, row.names=FALSE,  digits = 1, format = "pandoc",
+#                   caption = "Sentiment analysis - tweet di @nzingaretti")
 ```
 
 ## Conclusioni
