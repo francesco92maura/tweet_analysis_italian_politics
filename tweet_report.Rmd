@@ -39,7 +39,6 @@ Ovviamente è un po' semplicistico questo approccio, in quanto le strategie di c
 
 [^2]: Questa analisi non ha scopo politico alcuno, ho cercato di condurla e di presentare i risultati nella maniera più neutrale ed imparziale possibile. Ogni errore e/o negligenza in questo senso è da ricondurre all'autore, che nel caso si scusa anticipatamente.
 
-\newpage
 
 # I dati
 
@@ -111,6 +110,7 @@ sentiment_analysis <- function(dataset){
   sentiment_counts
 } 
 ```
+
 
 \newpage
 
