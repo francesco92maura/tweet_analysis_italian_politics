@@ -19,7 +19,7 @@ library(scales)
 
 ## quick overview of rtweet functions
 vignette("intro", package = "rtweet")
-
+ 
 ## lookup users by screen_name or user_id
 user <- c("GiuseppeConteIT", "matteosalvinimi", "nzingaretti","Antonio_Tajani")
 it_politicians <- lookup_users(user)
