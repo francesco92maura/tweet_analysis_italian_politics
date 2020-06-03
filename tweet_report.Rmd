@@ -1,6 +1,6 @@
 ---
-title: 'Covid-19 e politica italiana: analisi testuale dei tweet'
-author: "Francesco Maura"
+title: 'Covid-19, comunicazione e politica italiana: una analisi testuale dei tweet'
+author: "Francesco Maura[^1]"
 output:  pdf_document
 ---
 
@@ -25,15 +25,23 @@ knitr::opts_chunk$set(fig.pos = "H")
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-L'attuale crisi sanitaria, economica e sociale dovuta alla diffusione dell'ormai noto virus *Covid-19* ha decisamente spostato l'attenzione mediatica del sistema italiano sul Primo Ministro Giuseppe Conte. Negli ultmi mesi, infatti, tra dirette, interviste, dichiarazioni, decreti e chi più ne ha più ne metta, l'attenzione mediatica intorno alla sua figura è decisamente aumentata, portantodolo come mai prima d'ora al centro dell'attenzione.
+[^2] L'attuale crisi sanitaria, economica e sociale dovuta alla diffusione dell'ormai noto virus *Covid-19* ha decisamente spostato l'attenzione mediatica del sistema italiano sul Primo Ministro Giuseppe Conte. Negli ultmi mesi, infatti, tra dirette, interviste, dichiarazioni e decreti l'attenzione mediatica intorno alla sua figura è decisamente aumentata, portantodolo come mai prima d'ora al centro dell'attenzione.
 
-Ma cosa ha detto Giuseppe Conte al suo Paese? Su quali aspetti della pandemia in corso si è più focalizzat nella sua strategia comunicativa? E, ultimo ma non meno importante, come si sono mosse le altre forze politiche per contrastarlo/sostenerlo.
+Sorgono spontanee alcune domande, cosa ha detto Giuseppe Conte al suo Paese? Su quali aspetti della pandemia in corso si è centrata la sua strategia comunicativa? E, ultimo ma non meno importante, come si sono mosse le altre forze politiche, sempre dal punto di vista della comunicazione?.
 
-Questo breve articolo prova a rispondere a queste domande tramite tecniche di text-analitycs e sentiment analysis, utilizzando come fonte dati i tweet dei profili ufficiali di quattro dei maggiori esponenti politici del panorama italiano: Giuseppe Conte [\underline{@GiuseppeConteIT}](https://twitter.com/GiuseppeConteIT "@GiuseppeConteIT"), Matteo Salvini 
+Questo breve report prova a rispondere a queste domande tramite tecniche di text-analitycs e sentiment analysis. La fonte dati utilizzata sono i tweet dei profili ufficiali di quattro dei maggiori esponenti politici del panorama italiano: Giuseppe Conte [\underline{@GiuseppeConteIT}](https://twitter.com/GiuseppeConteIT "@GiuseppeConteIT"), Matteo Salvini 
 [\underline{@matteosalvinimi}](https://twitter.com/matteosalvinimi "@matteosalvini"), Nicola Zingaretti
 [\underline{@nzingaretti}](https://twitter.com/nzingaretti "@nzingaretti") e Antonio Tajani  [\underline{@Antonio\_Tajani}](https://twitter.com/Antonio_Tajani "@Antonio\_Tajani").
 
-## I dati
+Ovviamente è un po' semplicistico questo approccio, in quanto le strategie di comunicazione si basano su molto di più che qualche tweet, ma questi sono un'ottima risorsa di facile reperibilità e spesso riportano le dichiarazioni dei politici stessi fattein altre contesti, riassumendo parzialmente anche altri canali.
+
+[^1]: contatti: francesco92.maura@gmail.com
+
+[^2]: Questa analisi non ha scopo politico alcuno, ho cercato di condurla e di presentare i risultati nella maniera più neutrale ed imparziale possibile. Ogni errore e/o negligenza in questo senso è da ricondurre all'autore, che nel caso si scusa anticipatamente.
+
+\newpage
+
+# I dati
 
 ```{r data loading, echo=FALSE, results='hide', warning=FALSE}
 # load datsframe
@@ -48,9 +56,9 @@ salvini[] <- lapply(salvini, as.character)
 zingaretti[] <- lapply(zingaretti, as.character)
 tajani[] <- lapply(tajani, as.character)
 ```
-Sono stati analizzati gli ultimi 3000 tweets circa dei vari account, selezionando quelli con data successiva al 15 gennaio 2020. Come possiamo vedere dalla tabella seguente, l'account più attivo è stato senza dubbio @matteosalvinimi, con una strategia comunicativa più insistente rispetto a quella dei suoi avversari politici. Da sottolineare, però, come buona parte dei tweet di questo account riportino semplicemente alcune dichiarazioni del segretario federale della Lega Nord, rilasciate in contesti diversi dai social network. è quindi evidente 
+Sono stati analizzati gli ultimi 3000 tweet circa dei vari account, selezionando quelli con data successiva al 15 gennaio 2020. Come possiamo vedere dalla tabella seguente, l'account più attivo è stato senza dubbio \texttt{@matteosalvinimi}, decisamente più presente e insistente rispetto ai suoi avversari politici. Da sottolineare, però, come buona parte dei tweet di questo account riportino semplicemente alcune dichiarazioni del segretario federale della Lega Nord, rilasciate in contesti diversi dai social network, circa il 30% del totale. 
 
-Guardando invece ai *retweet* medi per singolo *tweet*, si può notare come la risonanza delle comunicazione dell'account @GiuseppeConteIT sia molto più elevata; ciò è probabilmente dovuto ad una maggiore attenzione alle comunicazioni del primo ministro italiano in questo periodo e alle aspettative del popolo italiano stesso rispetto ad esse. 
+Guardando invece ai *retweet* medi per singolo *tweet*, si può notare come la risonanza delle comunicazione dell'account \texttt{@GiuseppeConteIT} sia molto più elevata; ciò è probabilmente dovuto ad una maggiore attenzione alle comunicazioni del primo ministro italiano in questo periodo e alle aspettative del popolo italiano stesso rispetto ad esse. 
 
 ```{r summary tweet, echo=FALSE, results='asis'}
 tweet <- bind_rows(conte, salvini, zingaretti, tajani)
@@ -104,11 +112,14 @@ sentiment_analysis <- function(dataset){
 } 
 ```
 
-## L'analisi
+\newpage
 
-\textbf{Una breve premessa - come leggere i grafici} nelle pagine seguenti saranno riportati due tipologie di grafico, uno è il cosidetto \textit{wordcloud}, che riporta una selezione delle parole usate più di frequente nel testo in analisi con una scala di grandezza decrescente, il secondo  fa invece rifermento alla \textit{sentiment analysis}, dove si cerca di analizzare le sensazioni del testo utilizzando un elenco di parle chiave asociate a diverse tipologie di sentimenti.
+# L'analisi
 
-### Giuseppe Conte
+\textbf{Una breve premessa - come leggere i grafici} nelle pagine seguenti saranno riportati due tipologie di grafico, uno è il cosidetto \textit{wordcloud}, che riporta una selezione delle parole usate più di frequente nel testo in analisi con una scala di grandezza decrescente, il secondo  fa invece rifermento alla \textit{sentiment analysis}, dove si cerca di analizzare le sensazioni del testo utilizzando un elenco di parle chiave selezionate tramite studi di semantica e linguistica.
+
+## Giuseppe Conte
+
 ```{r conte wordcloud, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
 wcl <- wordcloud(conte_count$word, conte_count$n, min.freq = 3,
           max.words=100, random.order=FALSE, rot.per=0.3,
@@ -117,7 +128,7 @@ wcl <- wordcloud(conte_count$word, conte_count$n, min.freq = 3,
 
 Le parole più utilizzate dall'account \textit{twitter} del Primo Ministro italiano fanno pensare che questi abbia utilizzato questo social per richiamare l'attenzione sulle sue ormai famose conferenze, tramite le quali ha spesso comunicato notizie chiave per affrontare l'emergenza Covid-19 in Italia. Oltre a ciò, risaltano \texttt{cittadini, insieme} ed \texttt{emergenza}, quasi a ricordarci come si possa uscire da questa situazione solamente collaborando e sostenendoci a vicenda.
 
-```{r conte setiment, echo=FALSE, results='asis', warning=FALSE, fig.align='left',fig.width=3, fig.height=3}
+```{r conte setiment, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
 conte_sent <- sentiment_analysis(conte_count)
 sent <- conte_sent %>% mutate(sentiment = reorder(sentiment, n)) %>%
         ggplot(aes(x = sentiment, y = n)) +
@@ -130,9 +141,9 @@ sent
 #                   caption = "Sentiment analysis - tweet di @GiuseppeConteIT")
 ```
 
-La sentiment analysis evidenzia come la strategia di comunicazione punti a lasciare messaggi di speranza e positività rispetto alla pandemia. Difatti, \textit{positivo} e \textit{fiducia} guidano questa graduatoria. Subito dopo troviamo però ben tre sentiment negativi, \textit{negativo, paura} e \textit{tristezza}, sicuramente legati alle tante ferite che il virus ha lasciato e sta lasciando sul nostro territorio.
+La sentiment analysis evidenzia come la strategia di comunicazione punti a lasciare messaggi di speranza e positività rispetto alla pandemia. Difatti, \textit{positivo} e \textit{fiducia} guidano questa graduatoria, in accordo anche con quanto detto nel paragrafo precedente. Subito dopo troviamo però ben tre sentiment negativi, \textit{negativo, paura} e \textit{tristezza}, sicuramente legati alle tante ferite che il virus ha lasciato e sta lasciando sul nostro territorio.
 
-### Matteo Salvini
+## Matteo Salvini
 
 ```{r salvini wordcloud, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
 wcl <- wordcloud(salvini_count$word, salvini_count$n, min.freq = 3,
@@ -140,9 +151,9 @@ wcl <- wordcloud(salvini_count$word, salvini_count$n, min.freq = 3,
           colors=brewer.pal(8, "Dark2"))
 ```
 
-Potrebbe risultare strano come la parola più utilizzata dall'account twitter di Matteo Salvini sia proprio \texttt{\#Salvini}; questo si lega a quanto anticipato nei paragrafi precedenti, ovvero che buona parte di questi tweet riportano dichiarazioni del Segretario della Lega e questi iniziano, appunto, con l'hashtag \texttt{\#Salvini}. Fatta questa breve premessa, risaltano le parole che potremmo definire tipiche di Matteo Salvini, quali \texttt{amici} e \texttt{italiani}. Curioso come sia l'unico account a non avere in evidenza l'hashtag \texttt{\#coronavirus}.
+Potrebbe risultare strano come la parola (pardo, hashtag) più utilizzata dall'account twitter di Matteo Salvini sia proprio \texttt{\#Salvini}; questo si lega a quanto anticipato nei paragrafi precedenti, ovvero che buona parte di questi tweet riportano dichiarazioni del Segretario della Lega e questi iniziano, appunto, con l'hashtag \texttt{\#Salvini}. Fatta questa breve premessa, risaltano le parole che potremmo ormai definire tipiche di Matteo Salvini, quali \texttt{amici} e \texttt{italiani}. Curioso come sia l'unico account a non avere in evidenza l'hashtag \texttt{\#coronavirus}.
 
-```{r salvini sentiment, echo=FALSE, results='asis', warning=FALSE, fig.align='left',fig.width=3, fig.height=3}
+```{r salvini sentiment, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
 salvini_sent <- sentiment_analysis(salvini_count)
 sent <- salvini_sent %>% mutate(sentiment = reorder(sentiment, n)) %>%
         ggplot(aes(x = sentiment, y = n)) +
@@ -156,18 +167,19 @@ sent
 #                   caption = "Sentiment analysis - tweet di @matteosalvinimi")
 ```
 
-Per quanto riguarda i sentiment, notiamo una quasi partià tra la frequenza di \textit{positivo} (che rimane comunque primo) ed \textit{negativo}, che insieme distaccano nettamente le altre categorie. Essendo il principale referente dell'opposizione, è plausibile che ci sia un'alta negativà nei suoi tweet, laddove uno dei ruoli dell'opposizione rimane la critica costruttiva dell'operato del governo e questa difficilmente può essere espressa con espressioni positive. Di seguito troviamo poi gli stessi sentiment del Primo Ministro, anche se in ordine leggermente differente.
+Per quanto riguarda i sentiment, notiamo una quasi partià tra la frequenza di \textit{positivo} (che rimane comunque in testa) ed \textit{negativo}, che insieme distaccano nettamente le altre categorie. Essendo il principale referente dell'opposizione, è plausibile che ci sia un'alta negativà nei suoi tweet, laddove uno dei ruoli dell'opposizione rimane la critica (costruttiva) dell'operato del governo e questa difficilmente può essere espressa con espressioni positive. Di seguito troviamo poi gli stessi sentiment del Primo Ministro, anche se in ordine leggermente differente verso le ultime posizioni.
 
-### Antonio Tajani
+## Antonio Tajani
 
-```{r tajani wordcloud, echo=FALSE, results='asis', warning=FALSE, fig.align='left', out.width="300px"}
+```{r tajani wordcloud, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
 wcl <- wordcloud(tajani_count$word, tajani_count$n, min.freq = 3,
           max.words=100, random.order=FALSE, rot.per=0.3,
           colors=brewer.pal(8, "Dark2"))
 ```
 
+Nel caso del vicepresidente di Forza Italia, grande attenzione è stata data, ovviamente, alla pandemia. Troviamo infatti ben tre diversi hashtag che rimandano al virus tra le parole in tendenza: \texttt{\#coronavirus, \#covid19} e \texttt{\#covid}. In secondo luogo, grande attenzione è rivolta alle varie componenti del tessuto sociale italiano, in particolare ai suoi cittadini, alle imprese e agli enti istituzionali e governativi. Da ultimo, troviamo diverse espressioni che rimandono a possibili azioni future per fornteggiare non più la crisi epidemica, ma quella economica (per esempio \texttt{europa, proposte} e \texttt{lavoro}).
 
-```{r tajani sentiment, echo=FALSE, results='asis', warning=FALSE, fig.align='left',fig.width=3, fig.height=3}
+```{r tajani sentiment, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
 tajani_sent <- sentiment_analysis(tajani_count)
 sent <- tajani_sent %>% mutate(sentiment = reorder(sentiment, n)) %>%
         ggplot(aes(x = sentiment, y = n)) +
@@ -179,16 +191,19 @@ sent
 #                   caption = "Sentiment analysis - tweet di @Antonio_Tajani")
 ```
 
-### Nicola Zingaretti
+Come nel caso di \texttt{@matteosalvinimi}, la classifica dei primi quattro sentiment rilevabili è la stessa, ma si nota un maggiore distacco tra i primi due, *positivo* e *negativo*. La quinta posizione di *anticipazione* si può connettere facilmente a quanto detto in precedenza, dove alcune parole in risalto si possono appunto collegare a proposte o richieste per i mesi alla pandemia e al lockdown più stringente.
 
-```{r zingaretti wordcloud, echo=FALSE, results='asis', warning=FALSE, fig.align='left', out.width="300px"}
-wcl <- wordcloud(zingaretti_count$word, zingaretti_count$n, min.freq = 3,
+## Nicola Zingaretti
+
+```{r zingaretti wordcloud, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
+wcl <- wordcloud(zingaretti_count$word, zingaretti_count$n, min.freq = 4,
           max.words=100, random.order=FALSE, rot.per=0.3,
           colors=brewer.pal(8, "Dark2"))
 ```
 
+Il segretario del Partito Democratico ha anch'egli concentrato gran parte dei propri tweet intorno all'hashtag \texttt{\#coronavirus}. Da notare come sia l'unico tra i quattro politici analizzati ad avere \texttt{grazie} tra le parole di tendenza, seguito da altre espressioni simili a quelle di Antonio Tajani, ovvero volte al futuro in un'ottica di proposte economiche e di ricostruzione sociale (vedasi \texttt{imprese, lavoro} e \texttt{governo} per esempio).
 
-```{r zingaretti sentiment, echo=FALSE, results='asis', warning=FALSE, fig.align='left',fig.width=3, fig.height=3}
+```{r zingaretti sentiment, echo=FALSE, results='asis', warning=FALSE, out.width="300px"}
 zingaretti_sent <- sentiment_analysis(zingaretti_count)
 sent <- zingaretti_sent %>% mutate(sentiment = reorder(sentiment, n)) %>%
         ggplot(aes(x = sentiment, y = n)) +
@@ -200,4 +215,4 @@ sent
 #                   caption = "Sentiment analysis - tweet di @nzingaretti")
 ```
 
-## Conclusioni
+Molto simile al caso di Tajani, la sentiment analysis relativa ai tweet di Zingaretti si differenzia più per le distanze tra un sentiment e l'altro che per l'ordine in sè. Se infatti nel caso del vicepresidente di Forza Italia si notava una decrescita costante dell'utilizzo delle parole, ora possiamo distingure deu veri e propri *blocchi* di due o tre sentiment, con il *positivo* che rimane il primo e più rilevante per distacco.
